@@ -1,15 +1,17 @@
-# functional-programming
+# Functional Programming
 
-This readme is WIP
+## About this course
+The goal for this [@CMDA-TT](https://cmda-tt.github.io/course-20-21/) course is to learn about cleaning data by writing functional code, document the process and reflect on the outcome.
 
-## Research questions
+### Deliverable
+A digital data visualisation about the subject 'cars in cities', made out of a frontend framework of choice based on [RDW](https://www.rdw.nl/)s datasets, and possibly others datasets from external providers.
 
-- With the rapid development and greenification of public transport, are the amount of available parking spaces for cars decreasing or increasing? -> With the available data it's not possible to do further research about this matter.
-- With the increase of electric cars on the road, do parking facilities facilitate enough charging points?
+## About the client
+This course consists of a 6-week-long project which is assigned to us by [the Volkskrant](https://www.volkskrant.nl/). The Volkskrant is a well-known Dutch quality newspaper with over 400.000 subscribers.
 
-## Interesting subjects
-
-- Electronic vehicles
-- Parking facilities with charging points
-- Public charging points (external dataset)
-- Proximity amenities (CBS)
+## Research subject (WIP)
+*main question*
+    - *sub question + dataset + endpoint(s)*
+    - *sub question + dataset + endpoint(s)*
+    - *sub question + dataset + endpoint(s)*
+    - *...*
