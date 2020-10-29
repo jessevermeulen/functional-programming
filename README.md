@@ -16,12 +16,12 @@ During the time span of this project I'll be researching data about 'cars in cit
 With the increasing amount of electric vehicles on road, do parking facilities offer enough infrastructure like charging hubs?
 
 *Sub questions*
-    - How many electric vehicles are currently registered in the Netherlands?
-        - [Open Data RDW: Gekentekende_voertuigen_brandstof](https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen_brandstof/8ys7-d773)
-            - Endpoint: Brandstof omschrijving
-    - How often do electric vehicles needs to be charged?
-        - If granted access: [Elektrische Voertuigen Database](https://ev-database.nl/blog/ev-database-data-services/), otherwise: [Cijfers elektrisch vervoer](https://www.rvo.nl/sites/default/files/2020/10/Statistics%20Electric%20Vehicles%20and%20Charging%20in%20The%20Netherlands%20up%20to%20and%20including%20September%202020.pdf).
-        - Yearly traveled kilometers ([Verkeersprestaties personenauto's; kilometers, brandstofsoort, grondgebied](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=80428ned&_theme=483)).
-    - How many charging points are parking facilities offering currently?
-        - [Open Data Parkeren: SPECIFICATIES PARKEERGEBIED](https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-SPECIFICATIES-PARKEERGEBIED/b3us-f26s)
-            - Endpoint: ChargingPointCapacity
+- How many electric vehicles are currently registered in the Netherlands?
+    - [Open Data RDW: Gekentekende_voertuigen_brandstof](https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen_brandstof/8ys7-d773)
+        - Endpoint: Brandstof omschrijving
+- How often do electric vehicles needs to be charged?
+    - If granted access: [Elektrische Voertuigen Database](https://ev-database.nl/blog/ev-database-data-services/), otherwise: [Cijfers elektrisch vervoer](https://www.rvo.nl/sites/default/files/2020/10/Statistics%20Electric%20Vehicles%20and%20Charging%20in%20The%20Netherlands%20up%20to%20and%20including%20September%202020.pdf).
+    - Yearly traveled kilometers ([Verkeersprestaties personenauto's; kilometers, brandstofsoort, grondgebied](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=80428ned&_theme=483)).
+- How many charging points are parking facilities offering currently?
+    - [Open Data Parkeren: SPECIFICATIES PARKEERGEBIED](https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-SPECIFICATIES-PARKEERGEBIED/b3us-f26s)
+        - Endpoint: ChargingPointCapacity
