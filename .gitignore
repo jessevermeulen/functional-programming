@@ -1,6 +1,6 @@
 .DS_STORE
 .vscode
 .env
-node_modules
-build
-exercises
+node_modules/
+build/
+exercises/
