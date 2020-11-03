@@ -1,1 +1,4 @@
-exercises/.DS_Store
+.DS_STORE
+.vscode
+build/
+exercises/
