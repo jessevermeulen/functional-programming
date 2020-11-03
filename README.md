@@ -13,7 +13,7 @@ The topic of this project is ‘the car in the city’, which got assigned to us
 
 During the length of this project I'll be focussing my research on vehicles, in specific: vehicles registered in the Netherlands. The required data is publicly accessible through different APIs, see [Sources](#Sources) for a summary of all data providers.
 
-## Interesting research subjects
+### Interesting research subjects
 
 - If parking within city centers becomes too expensive, what place(s) would be most cost-efficient to park a car while still being able to reach the city center within an acceptable amount of time?
 - Do cities offer enough infrastructure for camper vans, for example: to empty grey water tanks, refill drinking water tanks, resupply gas tanks for cooking and to charge portable batteries?
@@ -31,6 +31,9 @@ Sub questions
 - What consumer vehicle brands are most present on Dutch roads?
 - What electric vehicle options are available to buy and what range do they have?
 - How many vehicles are registered as a taxi
+
+## Sources
+*Work in progress*
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
