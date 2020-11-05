@@ -25,7 +25,7 @@ Since parking within cities becomes more expensive and so less accessible for mo
 
 - How much does it cost to park a car, what differences in pricing are noticeable while comparing parking facilities inside and outside city centers?
 
-*Assumption:* It's more expensive to park a car within a city center, it's also generally speaking not possible to park a car there for a longer period of time.
+*Assumption:* It's more expensive to park a car within a city center, it's also generally speaking not possible to park a car within a city center for a longer period of time.
 
 - What can we say about parking facilities further away from city centers, are they located closely to e.g. train stations and car pool locations?
 
@@ -33,6 +33,7 @@ Since parking within cities becomes more expensive and so less accessible for mo
 
 ## Sources
 - [RDW](https://opendata.rdw.nl/)
+- ...
 
 ## Installation
 *Work in progress*
