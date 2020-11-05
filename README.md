@@ -6,7 +6,7 @@ Deliverable | Client
 --- | ---
 Cleaning and reformatting [RDW](https://rdw.nl/) data by using functional patterns. | The topic of this project is ‘the car in the city’, a project which got assigned to us through a collaboration between [the Volkskrant](https://www.volkskrant.nl/), a well-known Dutch quality newspaper with over 400.000 subscribers, and CMDA-TT.
 
-<p align="center">The process of this course is documented this [wiki](https://github.com/jessevermeulen/functional-programming/wiki).<p>
+<p align="center">The process of this course is documented this <a href="https://github.com/jessevermeulen/functional-programming/wiki">wiki</a>.<p>
 
 ## Research
 
