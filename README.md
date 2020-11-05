@@ -4,7 +4,7 @@ Functional Programming is part of the [CMDA-TT](https://cmda-tt.github.io/course
 
 
 Deliverable | Client
-:--- | :---
+--- | ---
 Cleaning and reformatting [RDW](https://rdw.nl/) data by using functional patterns. | The topic of this project is ‘the car in the city’, a topic which got assigned to us through a collaboration between [the Volkskrant](https://www.volkskrant.nl/), a well-known Dutch quality newspaper with over 400.000 subscribers, and CMDA-TT.
 
 
