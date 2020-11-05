@@ -1,6 +1,6 @@
 <h1 align="center">Functional Programming</h1>
 
-Functional Programming is part of the [CMDA-TT](https://cmda-tt.github.io/course-20-21/) tech track, a 6-week-long elective module consisting of 3 courses: Functional Programming, [Frontend Data](https://github.com/jessevermeulen/frontend-data) and [Frontend Applications](https://github.com/jessevermeulen/frontend-applications). With Functional Programming we get to learn how to write functional code, document the ongoing process and reflect on the results.
+Functional Programming is part of the [CMDA-TT](https://cmda-tt.github.io/course-20-21/) tech track, a 6-week-long elective module consisting of 3 courses: Functional Programming, [Frontend Data](https://github.com/jessevermeulen/frontend-data) and [Frontend Applications](https://github.com/jessevermeulen/frontend-applications). During the Functional Programming course we learn how to write functional code, document the ongoing process and reflect on the results.
 
 Deliverable | Client
 --- | ---
