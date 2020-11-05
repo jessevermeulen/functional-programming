@@ -1,6 +1,6 @@
 <h1 align="center">Functional Programming</h1>
 
-Functional Programming is part of the [CMDA-TT](https://cmda-tt.github.io/course-20-21/) tech track, a 6-week-long elective module consisting of 3 courses: Functional Programming, [Frontend Data](https://github.com/jessevermeulen/frontend-data) and Frontend Applications. With Functional Programming we get to learn how to write functional code, document the ongoing process and reflect on the results.
+Functional Programming is part of the [CMDA-TT](https://cmda-tt.github.io/course-20-21/) tech track, a 6-week-long elective module consisting of 3 courses: Functional Programming, [Frontend Data](https://github.com/jessevermeulen/frontend-data) and [Frontend Applications](https://github.com/jessevermeulen/frontend-applications). With Functional Programming we get to learn how to write functional code, document the ongoing process and reflect on the results.
 
 Deliverable | Client
 --- | ---
@@ -25,7 +25,7 @@ Since parking within cities becomes more expensive and so less accessible for mo
 
 - How much does it cost to park a car, what differences in pricing are noticeable while comparing parking facilities inside and outside city centers?
 
-*Assumption:* It's more expensive to park a car within a city center, it's also generally speaking not possible to park a car for a longer period of time.
+*Assumption:* It's more expensive to park a car within a city center, it's also generally speaking not possible to park a car there for a longer period of time.
 
 - What can we say about parking facilities further away from city centers, are they located closely to e.g. train stations and car pool locations?
 
