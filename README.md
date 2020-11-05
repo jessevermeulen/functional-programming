@@ -4,7 +4,7 @@ Functional Programming is part of the [CMDA-TT](https://cmda-tt.github.io/course
 
 
 Deliverable | Client
---- | ---
+:--- | :---
 Cleaning and reformatting [RDW](https://rdw.nl/) data by using functional patterns. | The topic of this project is ‘the car in the city’, a topic which got assigned to us through a collaboration between [the Volkskrant](https://www.volkskrant.nl/), a well-known Dutch quality newspaper with over 400.000 subscribers, and CMDA-TT.
 
 
@@ -16,7 +16,7 @@ During the length of this project I'll be focussing my research on data about pa
 ### Research question
 Since parking within cities becomes more expensive and so less accessible for most people, we have to look to other options to park a car while visiting a city.
 
-> If parking within city centers becomes too expensive, what place(s) would be most cost-efficient to park a car while still being able to reach the city center within an acceptable amount of time?
+**If parking within city centers becomes too expensive, what place(s) would be most cost-efficient to park a car while still being able to reach the city center within an acceptable amount of time?**
 
 
 #### Sub questions
