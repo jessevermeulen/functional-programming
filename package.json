@@ -1,5 +1,19 @@
 {
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "Functional Programming, a CMDA-TT course",
+  "main": "index.js",
+  "repository": "https://github.com/jessevermeulen/functional-programming",
+  "author": "Jesse Vermeulen",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
   "dependencies": {
     "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }
