@@ -10,7 +10,7 @@ Cleaning and reformatting [RDW](https://rdw.nl/) data by using functional patter
 
 ## Research
 
-During the length of this project I'll be focussing my research on data about parking facilities. The required data is publicly accessible through different APIs, see [Data sources](#Data-sources) for a summary of all data providers.
+During the length of this project I'll be focussing my research on data about parking facilities. The required data is publicly accessible through different APIs, see [data sources](#Data-sources) for a summary of all data providers.
 
 ### Research focus
 Since parking within cities becomes more expensive and so less accessible for most people, we have to look to other options to park a car while visiting a city.
