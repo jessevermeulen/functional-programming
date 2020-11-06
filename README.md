@@ -40,7 +40,7 @@ Since parking within cities becomes more expensive and so less accessible for mo
 - Node.js
 - NPM/Yarn
 
-# Install
+### Install
 
 1. Clone this repository
 ```
