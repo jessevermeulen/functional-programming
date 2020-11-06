@@ -12,7 +12,7 @@ Cleaning and reformatting [RDW](https://rdw.nl/) data by using functional patter
 
 During the length of this project I'll be focussing my research on data about parking facilities. The required data is publicly accessible through different APIs, see [Sources](#Sources) for a summary of all data providers.
 
-### Research question
+### Research focus
 Since parking within cities becomes more expensive and so less accessible for most people, we have to look to other options to park a car while visiting a city.
 
 **If parking within city centers becomes too expensive, what place(s) would be most cost-efficient to park a car while still being able to reach the city center within an acceptable amount of time?**
@@ -27,16 +27,39 @@ Since parking within cities becomes more expensive and so less accessible for mo
 
 *Assumption:* It's more expensive to park a car within a city center, it's also generally speaking not possible to park a car within a city center for a longer period of time.
 
-- What can we say about parking facilities further away from city centers, are they located closely to e.g. train stations and car pool locations?
+- What can we say about parking facilities further away from city centers, are they located closely to e.g. train stations or car pool locations?
 
 *Assumption:* I'd expect to find a lot of parking facilities which are in close proximity of public transport.
 
-## Sources
+## Data sources
 - [RDW](https://opendata.rdw.nl/)
-- ...
 
 ## Installation
-*Work in progress*
+
+### Prerequisites
+- Node.js
+- NPM/Yarn
+
+# Install
+
+1. Clone this repository
+```
+git clone https://github.com/jessevermeulen/functional-programming.git
+```
+
+2. Install packages
+```
+npm install
+// or
+yarn install
+```
+
+3. Run the project
+```
+npm run dev
+// or
+yarn dev
+```
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

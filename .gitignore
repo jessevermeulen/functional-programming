@@ -1,6 +1,8 @@
 .DS_STORE
 .vscode
 .env
+.cache
 node_modules/
-build/
-exercises/
+dist/
+data/
+lectures/
