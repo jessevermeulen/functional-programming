@@ -1,4 +1,4 @@
-<h1 align="center">Functional Programming</h1>
+# Functional Programming
 
 Functional Programming is part of the [CMDA-TT](https://cmda-tt.github.io/course-20-21/) tech track, a 6-week-long elective module consisting of 3 courses: Functional Programming, [Frontend Data](https://github.com/jessevermeulen/frontend-data) and [Frontend Applications](https://github.com/jessevermeulen/frontend-applications). During the Functional Programming course we learn how to write functional code, document the ongoing process and reflect on the results.
 
@@ -10,10 +10,10 @@ Cleaning and reformatting [RDW](https://rdw.nl/) data by using functional patter
 
 ## Research
 
-During the length of this project I'll be focussing my research on data about parking facilities. The required data is publicly accessible through different APIs, see [data sources](#Data-sources) for a summary of all data providers.
+During the length of this project I'll be focussing my research on data about parking facilities. The required data is publicly accessible through different APIs. See [data sources](#Data-sources) for a summary of all data providers.
 
 ### Research focus
-Since parking within cities becomes more expensive and so less accessible for most people, we have to look to other options to park a car while visiting a city.
+Since parking within Dutch cities becomes more expensive and so less accessible for most people, we have to look to other options to park a car while visiting a city.
 
 **If parking within city centers becomes too expensive, what place(s) would be most cost-efficient to park a car while still being able to reach the city center within an acceptable amount of time?**
 
