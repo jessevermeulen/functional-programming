@@ -2,6 +2,7 @@ import { surveyData } from '../../data/dv-survey';
 
 const data = surveyData;
 
+// Reformat eye colors to hex color format
 function transformEyeColor(key) {
   const transformValue = data
     .map((e) => {
@@ -15,6 +16,7 @@ function transformEyeColor(key) {
         .replace('licht#0000ff', '#add8e6');
     })
 
+    // Check if a hashtag is present, otherwise add one in front of the string
     .map((e) => {
       return !e.includes('#') ? '#' + e : e;
     });
