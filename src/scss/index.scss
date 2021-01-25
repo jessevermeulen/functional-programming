@@ -1,0 +1,27 @@
+:root {
+  --map-fill: #101935;
+  --map-fill-hover: #3859BC;
+  --map-border: #8499B1;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+svg path {
+  fill: var(--map-fill);
+  stroke: var(--map-border);
+  stroke-width: .5px;
+  stroke-linejoin: round;
+  transition: fill .2s;
+
+  &:hover {
+    fill: var(--map-fill-hover);
+  }
+}
