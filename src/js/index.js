@@ -1,11 +1,10 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
-const data = require('../data/parking-data.json');
+const data = require('../data/node/parking-data.json');
 
 const identifierEndPoint = 'https://opendata.rdw.nl/resource/mz4f-59fw.json';
 const parkingFacilityEndPoint =
   'https://npropendata.rdw.nl/parkingdata/v2/static/';
-
 
 // Fetch parking facility identifier (UUID)
 async function fetchIdentifier(url) {
@@ -44,7 +43,7 @@ async function fetchParkingFacilityData() {
 
     // Write data to JSON file
     fs.writeFileSync(
-      './src/data/parking-data.json',
+      './src/data/node/parking-data.json',
       JSON.stringify(formatStaticParkingFacilityData, null, 2)
     );
 
@@ -54,7 +53,7 @@ async function fetchParkingFacilityData() {
   }
 }
 
-fetchParkingFacilityData();
+// fetchParkingFacilityData();
 
 // Filter parking facility selling points
 function filterData(key, data) {
@@ -69,10 +68,10 @@ function filterData(key, data) {
           parkingFacility.parkingFacilityInformation.description;
 
         location.sellingPointLocation.forEach((coordinates) => {
-          const sellingPointCoordinates = {
-            longitude: coordinates.longitude,
-            latitude: coordinates.latitude,
-          };
+          const sellingPointCoordinates = [
+            coordinates.longitude,
+            coordinates.latitude,
+          ];
 
           sellingPointLocations = {
             description: parkingFacilityDescription,
@@ -87,7 +86,7 @@ function filterData(key, data) {
 
   // Write data to JSON file
   fs.writeFileSync(
-    './src/data/selling-points.json',
+    './src/data/node/selling-points.json',
     JSON.stringify(filteredObj, null, 2)
   );
 }
