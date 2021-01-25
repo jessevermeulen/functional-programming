@@ -5,4 +5,4 @@
 node_modules/
 dist/
 lectures/
-src/data/dv-survey.js
+src/data/node/dv-survey.js
