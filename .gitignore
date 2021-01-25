@@ -1,8 +1,12 @@
 .DS_STORE
 .vscode
 .env
-.cache
+
 node_modules/
+
 dist/
+
 lectures/
+src/js/index-temp.js
+src/js/temp.js
 src/data/node/dv-survey.js
