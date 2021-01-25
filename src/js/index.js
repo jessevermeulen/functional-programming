@@ -1,11 +1,13 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
-const data = require('../data/result.json');
+const data = require('../data/parking-data.json');
 
 const identifierEndPoint = 'https://opendata.rdw.nl/resource/mz4f-59fw.json';
 const parkingFacilityEndPoint =
   'https://npropendata.rdw.nl/parkingdata/v2/static/';
 
+
+// Fetch parking facility identifier (UUID)
 async function fetchIdentifier(url) {
   const fetchIdentifier = await fetch(url);
   const formatIdentifier = await fetchIdentifier.json();
@@ -13,39 +15,51 @@ async function fetchIdentifier(url) {
   return formatIdentifier;
 }
 
+// Fetch unique parking facility data
 async function fetchParkingFacilityData() {
-  const identifierObject = await fetchIdentifier(identifierEndPoint);
+  try {
+    const identifierObject = await fetchIdentifier(identifierEndPoint);
 
-  const staticParkingFacilityData = identifierObject
-    .slice(0, 500)
-    .map(async (parkingFacility) => {
-      const identifier = parkingFacilityEndPoint + parkingFacility.uuid;
+    // Fetch data
+    const staticParkingFacilityData = identifierObject
+      .slice(0, 500) // Add limit to prevent rate limit
+      .map(async (parkingFacility) => {
+        const identifier = parkingFacilityEndPoint + parkingFacility.uuid;
 
-      const data = await fetch(identifier);
+        const data = await fetch(identifier);
 
-      return data;
+        return data;
+      });
+
+    // Format data to JSON
+    const formatStaticParkingFacilityData = await Promise.all(
+      staticParkingFacilityData
+    ).then((parkingFacility) => {
+      return Promise.all(
+        parkingFacility.map((parkingFacility) => {
+          return parkingFacility.json();
+        })
+      );
     });
 
-  const formatStaticParkingFacilityData = await Promise.all(
-    staticParkingFacilityData
-  ).then((parkingFacility) => {
-    return Promise.all(
-      parkingFacility.map((parkingFacility) => {
-        return parkingFacility.json();
-      })
+    // Write data to JSON file
+    fs.writeFileSync(
+      './src/data/parking-data.json',
+      JSON.stringify(formatStaticParkingFacilityData, null, 2)
     );
-  });
 
-  fs.writeFileSync(
-    './src/data/result.json',
-    JSON.stringify(formatStaticParkingFacilityData, null, 2)
-  );
-
-  return formatStaticParkingFacilityData;
+    return formatStaticParkingFacilityData;
+  } catch (e) {
+    console.log(e);
+  }
 }
 
+fetchParkingFacilityData();
+
+// Filter parking facility selling points
 function filterData(key, data) {
   let filteredObj = [];
+
   data.forEach((parkingFacility) => {
     if (parkingFacility.parkingFacilityInformation.hasOwnProperty(key)) {
       parkingFacility.parkingFacilityInformation[key].forEach((location) => {
@@ -71,6 +85,7 @@ function filterData(key, data) {
     }
   });
 
+  // Write data to JSON file
   fs.writeFileSync(
     './src/data/selling-points.json',
     JSON.stringify(filteredObj, null, 2)

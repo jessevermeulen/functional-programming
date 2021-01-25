@@ -4,5 +4,5 @@
 .cache
 node_modules/
 dist/
-data/
 lectures/
+src/data/dv-survey.js
