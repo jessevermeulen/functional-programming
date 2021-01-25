@@ -1,4 +1,4 @@
-import { surveyData } from '../../data/dv-survey';
+import { surveyData } from '../data/node/dv-survey';
 
 const data = surveyData;
 
