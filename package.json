@@ -7,16 +7,17 @@
   "author": "Jesse Vermeulen",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "vite",
+    "build": "vite build",
+    "start": "nodemon ./src/js/index.js"
   },
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
-  },
-  "browserslist": [
-    "last 2 Chrome versions"
-  ]
+    "nodemon": "^2.0.7",
+    "vite": "^2.0.0-beta.46"
+  }
 }
