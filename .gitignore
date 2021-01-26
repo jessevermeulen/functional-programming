@@ -7,6 +7,6 @@ node_modules/
 dist/
 
 lectures/
-src/js/index-temp.js
-src/js/temp.js
+src/js/_index-temp.js
+src/js/_temp.js
 src/data/node/dv-survey.js
