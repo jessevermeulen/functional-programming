@@ -33,8 +33,9 @@ export default function Map() {
     let svg = d3
       .select('.map')
       .append('svg')
-      .attr('width', width)
-      .attr('height', height);
+      // .attr('width', width)
+      // .attr('height', height)
+      .attr('viewBox', '0 0 ' + width + ' ' + height);
 
     svg.append('g').attr('class', 'map');
     svg.append('g').attr('class', 'points');
@@ -53,7 +54,6 @@ export default function Map() {
       //     return '#3859bc';
       //   }
       // })
-      .style('fill', '#3859bc')
       .on('mouseover', (_, d) => {
         return tooltip
           .style('visibility', 'visible')
@@ -99,8 +99,8 @@ export default function Map() {
   }, []);
 
   return (
-    <>
+    <section>
       <div className="map"></div>
-    </>
+    </section>
   );
 }

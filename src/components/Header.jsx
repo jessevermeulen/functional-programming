@@ -1,12 +1,16 @@
 import React from 'react';
+import content from '../data/content.json';
 
-function Header() {
-
+export default function Header() {
   return (
     <header>
-      <h1>Parking data</h1>
+      <span>{content.tagline}</span>
+      <span>
+        A data story by{' '}
+        <a href={content.author.domain} target="_blank">
+          {content.author.name}
+        </a>
+      </span>
     </header>
   );
 }
-
-export default Header;

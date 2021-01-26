@@ -1,0 +1,19 @@
+main {
+  & > section {
+    &:first-child {
+      display: flex;
+      align-items: flex-end;
+      height: 80vh;
+      background: var(--map-fill-hover);
+
+      h1 {
+        color: #fff;
+      }
+    }
+
+    &:nth-child(2) {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}

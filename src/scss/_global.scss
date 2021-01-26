@@ -2,6 +2,8 @@
   --map-fill: #101935;
   --map-fill-hover: #3859bc;
   --map-border: #8499b1;
+  --paragraph-size: 1rem;
+  --heading-1-size: 6rem;
 }
 
 body {
@@ -10,55 +12,23 @@ body {
     Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-h1 {
+  font-size: var(--paragraph-size);
   font-weight: 400;
 }
 
-main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+h1 {
+  font-size: var(--heading-1-size);
+  font-weight: 700;
 }
 
-div.map {
-  overflow: hidden;
+header,
+main > section {
+  width: 92vw;
+  padding: 0 4vw;
 }
 
-span.tooltip {
-  position: absolute;
-  padding: 0.5rem 1rem;
-  visibility: hidden;
-  z-index: 10;
-  color: var(--map-fill);
-  border: 1px solid var(--map-fill);
-  border-radius: 10px;
-  background: #fff;
-}
 
-svg {
-  g.map path {
-    fill: var(--map-border);
-    stroke: var(--map-fill);
-    stroke-width: 0.5px;
-    stroke-linejoin: round;
-    transition: fill 0.2s;
-
-    // &:hover {
-    //   fill: var(--map-fill-hover);
-    // }
-  }
-
-  g.points circle {
-    fill: var(--map-fill-hover);
-    stroke: #fff;
-    stroke-width: 1px;
-    transition: fill 0.2s;
-
-    &:hover {
-      fill: #fff;
-    }
-  }
+a {
+  color: #000;
+  text-decoration: none;
 }

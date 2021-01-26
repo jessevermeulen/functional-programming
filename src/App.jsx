@@ -1,13 +1,17 @@
 import React from 'react';
 import Header from './components/Header'
+import Hero from './components/Hero';
 import Map from './components/Map'
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Header />
-      <Map />
-    </div>
+      <main>
+        <Hero />
+        <Map />
+      </main>
+    </>
   );
 }
 
