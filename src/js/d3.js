@@ -1,52 +1,103 @@
 import * as d3 from 'd3';
+import inside from 'point-in-polygon';
 import municipalities from '../data/d3/netherlands-municipalities.json';
 import sellingPoints from '../data/node/selling-points.json';
 
-const width = 600;
-const height = 800;
-const scale = 7000;
+const cities = [
+  `'s-Hertogenbosch`,
+  'Amsterdam',
+  'Arnhem',
+  'Breda',
+  'Delft',
+  'Groningen',
+];
 
-const renderMap = d3
-  .select('.map')
-  .append('svg')
-  .attr('width', width)
-  .attr('height', height)
-  .append('g');
+function renderMap(municipalities, sellingPoints) {
+  const width = 1000;
+  const height = width;
+  const scale = width * 10;
+  const center = d3.geoCentroid(municipalities);
+  const offset = [width / 2, height / 2];
 
-const sellingPoints = d3.select('.map').append('g');
+  const projection = d3
+    .geoMercator()
+    .scale(scale)
+    .center(center)
+    .translate(offset);
 
-const center = d3.geoCentroid(municipalities);
-const offset = [width / 2, height / 2];
-const projection = d3
-  .geoMercator()
-  .scale(scale)
-  .center(center)
-  .translate(offset);
+  const geoGenerator = d3.geoPath().projection(projection);
 
-const geoGenerator = d3.geoPath().projection(projection);
+  const zoom = d3
+    .zoom()
+    .scaleExtent([1, 2])
+    .on('zoom', (e) => {
+      svg.attr('transform', e.transform);
+    });
 
-function update(municipalities) {
-  const u = d3
-    .select('.map svg g')
-    .selectAll('path')
-    .data(municipalities.features);
+  let tooltip = d3.select('.map').append('span').attr('class', 'tooltip');
 
-  u.enter().append('path').attr('d', geoGenerator);
+  let svg = d3
+    .select('.map')
+    .append('svg')
+    .attr('width', width)
+    .attr('height', height);
+
+  svg.append('g').attr('class', 'map');
+  svg.append('g').attr('class', 'points');
+
+  let map = svg.select('g.map').selectAll('path').data(municipalities.features);
+
+  map
+    .enter()
+    .append('path')
+    .attr('d', geoGenerator)
+    // .style('fill', (d) => {
+    //   if (cities.includes(d.properties.statnaam)) {
+    //     return '#3859bc';
+    //   }
+    // })
+    .style('fill', '#3859bc')
+    .on('mouseover', (_, d) => {
+      return tooltip.style('visibility', 'visible').html(d.properties.statnaam);
+    })
+    .on('mousemove', (e) => {
+      return tooltip
+        .style('left', e.pageX + 10 + 'px')
+        .style('top', e.pageY - 10 + 'px');
+    })
+    .on('mouseout', () => {
+      return tooltip.style('visibility', 'hidden');
+    });
+
+  let points = svg
+    .select('g.points')
+    .selectAll('circle')
+    .data(sellingPoints.features);
+
+  points
+    .enter()
+    .append('circle')
+    .attr('cx', (d) => {
+      return geoGenerator(d).match(/\d+/g).slice(0, 2).join('.');
+    })
+    .attr('cy', (d) => {
+      return geoGenerator(d).match(/\d+/g).slice(2, 4).join('.');
+    })
+    .attr('r', '6px')
+    .on('mouseover', (_, d) => {
+      // if ()
+      return tooltip
+        .style('visibility', 'visible')
+        .html('Parkeerplaats: ' + d.properties.name);
+    })
+    .on('mousemove', (e) => {
+      return tooltip
+        .style('left', e.pageX + 10 + 'px')
+        .style('top', e.pageY - 10 + 'px');
+    })
+    .on('mouseout', () => {
+      return tooltip.style('visibility', 'hidden');
+    });
 }
 
-update(municipalities);
-
-// var center = d3.geoCentroid(municipalities);
-
-// var projection = d3.geoMercator().center(center).scale(7000);
-
-// var geoGenerator = d3.geoPath().projection(projection);
-
-// Join the FeatureCollection's features array to path elements
-// var u = d3
-//   .select('#content g.map')
-//   .selectAll('path')
-//   .data(municipalities.features);
-
-// Create path elements and update the d attribute using the geo generator
-// u.enter().append('path').attr('d', geoGenerator);
+renderMap(municipalities, sellingPoints);
