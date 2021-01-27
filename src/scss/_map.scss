@@ -4,14 +4,36 @@
 }
 
 .tooltip {
+  display: flex;
+  flex-direction: column;
   position: absolute;
-  padding: 0.5rem 1rem;
+  padding: 1rem;
   visibility: hidden;
+  overflow: hidden;
   z-index: 10;
   color: var(--map-fill);
   border: 1px solid var(--map-fill);
   border-radius: 10px;
   background: #fff;
+
+  & > span {
+    position: relative;
+    left: -1rem;
+    top: -1rem;
+    width: 100%;
+    padding: .5rem 1rem;
+    font-size: .75rem;
+    font-weight: 700;
+    color: #fff;
+
+    &.tooltip-municipality {
+      background: var(--map-fill);
+    }
+
+    &.tooltip-point {
+      background: var(--map-fill-hover);
+    }
+  }
 }
 
 svg {
