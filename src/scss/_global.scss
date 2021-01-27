@@ -2,7 +2,7 @@
   --map-fill: #101935;
   --map-fill-hover: #3859bc;
   --map-border: #8499b1;
-  --paragraph-size: 1rem;
+  --paragraph-size: 1.25rem;
   --heading-1-size: 6rem;
 }
 
@@ -19,15 +19,16 @@ body {
 h1 {
   font-size: var(--heading-1-size);
   font-weight: 700;
+  white-space: pre-line;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
 }
 
 header,
 main > section {
   width: 92vw;
   padding: 0 4vw;
-}
-
-a {
-  color: #000;
-  text-decoration: none;
 }
