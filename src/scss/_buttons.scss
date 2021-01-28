@@ -1,4 +1,4 @@
-div {
+.buttons {
   display: flex;
 
   .button {
@@ -12,19 +12,19 @@ div {
     }
 
     &:first-child {
-      background: #DB5461;
+      background: #db5461;
     }
 
     &:nth-child(2) {
-      background: #8390FA;
+      background: #8390fa;
     }
 
     &:nth-child(3) {
-      background: #00BFB2;
+      background: #00bfb2;
     }
 
     &:last-child {
-      background: #F6AE2D;
+      background: #f6ae2d;
     }
   }
 }

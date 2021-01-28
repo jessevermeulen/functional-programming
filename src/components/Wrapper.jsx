@@ -29,7 +29,7 @@ export default function Toggle() {
     <section className={!isActive ? 'toggle-BetaaldParkeren' : null}>
       <p>{content.description}</p>
 
-      <div>
+      <div className="buttons">
         <div className="button" onClick={handleToggle}>
           {content.buttons[0]} ({filterUsage(`${content.buttons[0]}`).length})
         </div>

@@ -1,0 +1,14 @@
+footer {
+  text-align: center;
+  background: var(--map-fill);
+
+  & > div {
+    display: inline-block;
+    padding: 8rem 0;
+  }
+
+  h2,
+  a {
+    color: #fff;
+  }
+}

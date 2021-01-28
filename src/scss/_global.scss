@@ -27,7 +27,8 @@ h1 {
   white-space: pre-line;
 }
 
-p {
+p,
+li {
   margin: 0;
   line-height: 180%;
 }
@@ -37,8 +38,15 @@ a {
   text-decoration: none;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 header,
-main > section {
+main > section,
+footer {
   width: 92vw;
   padding: 0 4vw;
 }
