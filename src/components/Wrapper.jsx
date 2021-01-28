@@ -7,44 +7,39 @@ import parkingAccess from '../data/node/parking-access.json';
 
 const parkingData = merge(parkingSelling, parkingAccess);
 
-console.log(parkingSelling)
-console.log(parkingAccess);
-
 export default function Toggle() {
-  const [isActive, setActive] = useState('false');
+  const [data, setData] = useState(parkingData);
 
-  const handleToggle = () => {
-    setActive(!isActive);
-  };
+  const filterUsage = (usage) => {
+    const features = parkingData.features.filter(
+      (d) => d.properties.usage === usage
+    );
+    console.log(features);
+    let obj = {
+      type: 'FeatureCollection',
+      features: usage ? features : parkingData.features,
+    };
 
-  let data = parkingData;
-
-  const filterUsage = (u) => {
-    return (data = parkingData.features.filter(
-      (d) => d.properties.usage === u
-    ));
+    setData(obj);
   };
 
   return (
-    <section className={!isActive ? 'toggle-BetaaldParkeren' : null}>
+    <section>
       <p>{content.description}</p>
 
       <div className="buttons">
-        <div className="button" onClick={handleToggle}>
-          {content.buttons[0]} ({filterUsage(`${content.buttons[0]}`).length})
-        </div>
-        <div className="button">
-          {content.buttons[1]} ({filterUsage(`${content.buttons[1]}`).length})
-        </div>
-        <div className="button">
-          {content.buttons[2]} ({filterUsage(`${content.buttons[2]}`).length})
-        </div>
-        <div className="button">
-          {content.buttons[3]} ({filterUsage(`${content.buttons[3]}`).length})
-        </div>
+        {content.buttons.map((button, idx) => (
+          <div
+            key={idx}
+            className="button"
+            onClick={() => filterUsage(idx === 0 ? null : button)}
+          >
+            {button}
+          </div>
+        ))}
       </div>
 
-      <Map data={parkingData} />
+      <Map data={data} />
     </section>
   );
 }

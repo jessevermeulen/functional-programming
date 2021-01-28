@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import * as d3 from 'd3';
 import municipalities from '../data/d3/netherlands-municipalities.json';
 
@@ -97,8 +97,9 @@ const renderMap = async (parkingData) => {
 
 export default function Map(parkingData) {
   useEffect(() => {
+    document.querySelector('.map').innerHTML = '';
     renderMap(parkingData);
-  }, []);
+  }, [parkingData]);
 
   return <div className="map"></div>;
 }

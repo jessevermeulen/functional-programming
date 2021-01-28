@@ -12,14 +12,18 @@
     }
 
     &:first-child {
-      background: #db5461;
+      background: var(--map-fill);
     }
 
     &:nth-child(2) {
-      background: #8390fa;
+      background: #db5461;
     }
 
     &:nth-child(3) {
+      background: #8390fa;
+    }
+
+    &:nth-child(4) {
       background: #00bfb2;
     }
 
