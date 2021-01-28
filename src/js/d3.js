@@ -2,15 +2,6 @@ import * as d3 from 'd3';
 import municipalities from '../data/d3/netherlands-municipalities.json';
 import parkingSelling from '../data/node/parking-areas.json';
 
-const cities = [
-  `'s-Hertogenbosch`,
-  'Amsterdam',
-  'Arnhem',
-  'Breda',
-  'Delft',
-  'Groningen',
-];
-
 function renderMap(municipalities, parkingSelling) {
   const width = 1000;
   const height = width;
@@ -50,11 +41,6 @@ function renderMap(municipalities, parkingSelling) {
     .enter()
     .append('path')
     .attr('d', geoGenerator)
-    // .style('fill', (d) => {
-    //   if (cities.includes(d.properties.statnaam)) {
-    //     return '#3859bc';
-    //   }
-    // })
     .style('fill', '#3859bc')
     .on('mouseover', (_, d) => {
       return tooltip.style('visibility', 'visible').html(d.properties.statnaam);
