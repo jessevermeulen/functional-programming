@@ -7,6 +7,9 @@ import parkingAccess from '../data/node/parking-access.json';
 
 const parkingData = merge(parkingSelling, parkingAccess);
 
+console.log(parkingSelling)
+console.log(parkingAccess);
+
 export default function Toggle() {
   const [isActive, setActive] = useState('false');
 
@@ -24,21 +27,24 @@ export default function Toggle() {
 
   return (
     <section className={!isActive ? 'toggle-BetaaldParkeren' : null}>
-      <Map data={parkingData} />
+      <p>{content.description}</p>
+
       <div>
-        <span className="button" role="button" onClick={handleToggle}>
+        <div className="button" onClick={handleToggle}>
           {content.buttons[0]} ({filterUsage(`${content.buttons[0]}`).length})
-        </span>
-        <span className="button" role="button" onClick={handleToggle}>
+        </div>
+        <div className="button">
           {content.buttons[1]} ({filterUsage(`${content.buttons[1]}`).length})
-        </span>
-        <span className="button" role="button" onClick={handleToggle}>
+        </div>
+        <div className="button">
           {content.buttons[2]} ({filterUsage(`${content.buttons[2]}`).length})
-        </span>
-        <span className="button" role="button" onClick={handleToggle}>
+        </div>
+        <div className="button">
           {content.buttons[3]} ({filterUsage(`${content.buttons[3]}`).length})
-        </span>
+        </div>
       </div>
+
+      <Map data={parkingData} />
     </section>
   );
 }

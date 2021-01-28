@@ -1,26 +1,30 @@
-.button {
-  padding: 1rem 2rem;
-  color: #fff;
-  cursor: pointer;
-  border-radius: 10px;
+div {
+  display: flex;
 
-  &:not(:last-child) {
-    margin-right: 2rem;
-  }
+  .button {
+    padding: 1rem 2rem;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
 
-  &:first-child {
-    background: #DB5461;
-  }
+    &:not(:last-child) {
+      margin-right: 2rem;
+    }
 
-  &:nth-child(2) {
-    background: #8390FA;
-  }
+    &:first-child {
+      background: #DB5461;
+    }
 
-  &:nth-child(3) {
-    background: #00BFB2;
-  }
+    &:nth-child(2) {
+      background: #8390FA;
+    }
 
-  &:last-child {
-    background: #F6AE2D;
+    &:nth-child(3) {
+      background: #00BFB2;
+    }
+
+    &:last-child {
+      background: #F6AE2D;
+    }
   }
 }

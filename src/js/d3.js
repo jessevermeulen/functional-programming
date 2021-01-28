@@ -1,6 +1,6 @@
 import * as d3 from 'd3';
 import municipalities from '../data/d3/netherlands-municipalities.json';
-import parkingSelling from '../data/node/parking-areas.json';
+import parkingSelling from '../data/node/parking-selling.json';
 
 function renderMap(municipalities, parkingSelling) {
   const width = 1000;
@@ -30,7 +30,8 @@ function renderMap(municipalities, parkingSelling) {
     .select('.map')
     .append('svg')
     .attr('width', width)
-    .attr('height', height);
+    .attr('height', height)
+    .call(zoom);
 
   svg.append('g').attr('class', 'map');
   svg.append('g').attr('class', 'points');
@@ -70,7 +71,6 @@ function renderMap(municipalities, parkingSelling) {
     })
     .attr('r', '6px')
     .on('mouseover', (_, d) => {
-      // if ()
       return tooltip
         .style('visibility', 'visible')
         .html('Parkeerplaats: ' + d.properties.name);

@@ -1,6 +1,7 @@
 {
-  "title": "What we can learn from \npublic parking data",
+  "title": "De verschillende parkeergelegenheden...",
   "tagline": "Frontend Applications",
+  "description": "Een interactieve datavisualisatie van de parkeergelegenheden die Nederland rijk is, hierbij is gebruik gemaakt van RDW en NPR data. De kaart verschaft inzicht in het soort parkeergelegenheid en de locatie ervan. Middels knoppen kan er gefilterd worden op soort parkeergelegenheid.",
   "author": {
     "name": "Jesse Vermeulen",
     "domain": "https://jessevermeulen.com"

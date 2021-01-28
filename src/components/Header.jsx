@@ -6,7 +6,7 @@ export default function Header() {
     <header>
       <span>{content.tagline}</span>
       <span>
-        A data story by{' '}
+        Een data story van{' '}
         <a href={content.author.domain} target="_blank">
           {content.author.name}
         </a>
