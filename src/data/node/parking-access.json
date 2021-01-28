@@ -1,0 +1,1544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.574467,
+          51.445493
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Parkeergarage Scheldeplein (Vlissingen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Scheldeplein",
+          "Vlissingen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.493523,
+          52.154574
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Garenmarkt (Leiden)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Korevaarstraat",
+          "Leiden"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11464,
+          52.090173
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage P6 Rijnkade (Utrecht)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Rijnkade",
+          "Utrecht"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.564271,
+          51.931883
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "P+R Schenkel (Rotterdam)",
+        "usage": "Park & Ride",
+        "address": [
+          "Kralingseweg",
+          "Rotterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.317586,
+          52.076352
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Spui Centre (Den Haag)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Spui",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.241908,
+          52.086147
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Emmaplein (Zeist)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Meester de Klerkstraat",
+          "Zeist"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.829942,
+          51.337382
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Oostkolk (Terneuzen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Stadhuisplein",
+          "Terneuzen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79532,
+          51.462046
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Wolfsberg (Deurne)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Harmoniestraat",
+          "Deurne"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.796345,
+          51.461753
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Wolfsberg (Deurne)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Wolfsberg",
+          "Deurne"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.830401,
+          52.664092
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Zuidtangent (Heerhugowaard)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Zuidtangent",
+          "Heerhugowaard"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.829257,
+          52.663699
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Zuidtangent (Heerhugowaard)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Zuidtangent",
+          "Heerhugowaard"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.676626,
+          51.817199
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Riedijkshaven (Dordrecht)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Noorderstraat",
+          "Dordrecht"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.710233,
+          52.017343
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Vossenburchkade (Gouda)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Vosseburchkade",
+          "Gouda"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.711888,
+          52.017201
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Vossenburchkade (Gouda)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Vosseburchkade",
+          "Gouda"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.278979,
+          51.684374
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Henri Dunantstraat",
+          "'s Hertogenbosch"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.898545,
+          52.366163
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage The Bank (Amsterdam)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Amstelstraat",
+          "Amsterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.638824,
+          52.386569
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Station (Haarlem)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Lange Herenstraat",
+          "Haarlem"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.280913,
+          52.111699
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Nieuwe Parklaan (Den Haag)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Nieuwe Parklaan",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.569489,
+          51.885571
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "P+R Beverwaard (Rotterdam)",
+        "usage": "Park & Ride",
+        "address": [
+          "Bolnesserkade",
+          "Rotterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.772478,
+          53.198313
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein B2 (Leeuwarden)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Heliconweg",
+          "Leeuwarden"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1681,
+          51.372657
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Maaskade Hoog (Venlo)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Maaskade",
+          "Venlo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.168419,
+          51.373693
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Maaskade Hoog (Venlo)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Maaskade",
+          "Venlo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.854937,
+          52.344897
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Olympisch Stadion (Amsterdam)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Laan der Hesperiden",
+          "Amsterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.113428,
+          52.089612
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Hoog Catharijne P1 (utrecht)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Spoorstraat",
+          "Utrecht"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33048,
+          51.850645
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Theater (Spijkenisse)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Gorsstraat",
+          "Spijkenisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.328978,
+          51.851073
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Theater (Spijkenisse)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Gorsstraat",
+          "Spijkenisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.392393,
+          52.04549
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Parade (Pijnacker-Nootdorp)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Paradeplein",
+          "Nootdorp"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.557356,
+          52.995509
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage De Nieuwe Kolk (Assen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Alteveerstraat",
+          "Assen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.559129,
+          52.994571
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage De Nieuwe Kolk (Assen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Weiersstraat",
+          "Assen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08801,
+          51.393791
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Holland Casino (Venlo)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Magalhaesweg",
+          "Venlo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.707135,
+          51.252438
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Parkeergarage Kromstraat (Weert)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Walburgpassage",
+          "Weert"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.707135,
+          51.252438
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Parkeergarage Kromstraat (Weert)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Walburgpassage",
+          "Weert"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.101099,
+          53.105315
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Raadhuisplein (Drachten)",
+        "usage": "Parkeergarage",
+        "address": [
+          "De Drift",
+          "Drachten"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1014,
+          53.1061
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Raadhuisplein (Drachten)",
+        "usage": "Parkeergarage",
+        "address": [
+          "De Marke",
+          "Drachten"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1001,
+          53.1065
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Raadhuisplein (Drachten)",
+        "usage": "Parkeergarage",
+        "address": [
+          "De Marke",
+          "Drachten"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.06375,
+          51.691951
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Taxandriaweg II (Waalwijk)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Taxandriaweg",
+          "Waalwijk"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.062386,
+          51.691912
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Taxandriaweg II (Waalwijk)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Taxandriaweg",
+          "Waalwijk"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.061783,
+          51.691509
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Taxandriaweg II (Waalwijk)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Heulstraat",
+          "Waalwijk"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.064272,
+          51.69129
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Taxandriaweg II (Waalwijk)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Winterdijk",
+          "Waalwijk"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.476231,
+          51.437849
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Hooghuis (Eindhoven)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Keizersgracht",
+          "Eindhoven"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47693,
+          51.437594
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Hooghuis (Eindhoven)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Keizersgracht",
+          "Eindhoven"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.289013,
+          52.117084
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Zwarte Pad (Den Haag)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Zwarte Pad",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.332393,
+          51.850839
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Kolkplein (Spijkenisse)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Sluisstraat",
+          "Spijkenisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.094565,
+          52.507872
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Burgemeester van Roijensingel (Zwolle)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Zuiderkerkstraat",
+          "Zwolle"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.094007,
+          52.508705
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Burgemeester van Roijensingel (Zwolle)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.985135,
+          51.198618
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Kazerneplein (Roermond)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Maashaven",
+          "Roermond"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.481531,
+          51.443741
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Kennedy Business Center (Eindhoven)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Kennedyplein",
+          "Eindhoven"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.479516,
+          51.444414
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Kennedy Business Center (Eindhoven)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Kennedyplein",
+          "Eindhoven"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.480575,
+          51.444284
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Kennedy Business Center (Eindhoven)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Kennedyplein",
+          "Eindhoven"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.923392,
+          52.332197
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Zuidpark P1 (Amsterdam)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Spaklerweg",
+          "Amsterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9239,
+          52.331679
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Zuidpark P1 (Amsterdam)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Spaklerweg",
+          "Amsterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.397527,
+          52.067205
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Station Leidschenveen Haven (Den Haag)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Henri Faasdreef",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.398788,
+          52.066314
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Station Leidschenveen Haven (Den Haag)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Henri Faasdreef",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.396743,
+          52.067747
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Station Leidschenveen Haven (Den Haag)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Henri Faasdreef",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.398105,
+          52.0668
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Station Leidschenveen Haven (Den Haag)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Henri Faasdreef",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.488291,
+          51.917041
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage The Red Apple Parkeerkelder (Rotterdam)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Wijnbrugstraat",
+          "Rotterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.277013,
+          52.385246
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Het Schip (Raalte)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Marktstraat",
+          "Raalte"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.772406,
+          51.58734
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage De Barones (Breda)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Nieuweweg",
+          "Breda"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.861029,
+          52.336623
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage P2 VUmc (Amsterdam)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Gutav Mahlerlaan",
+          "Amsterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.785656,
+          51.58901
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Het Turfschip (Breda)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Chasséveld",
+          "Breda"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.113256,
+          52.089804
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage P3 Radboud (Utrecht)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Stationsstraat",
+          "Utrecht"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.642018,
+          51.819163
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Parkeergarage Walburg (Zwijndrecht)",
+        "usage": "Parkeergarage",
+        "address": [
+          "IJsselmeer",
+          "Zwijndrecht"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.798478,
+          51.82401
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Dukenburg (Nijmegen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Zwanenveld",
+          "Nijmegen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.794983,
+          51.823426
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Dukenburg (Nijmegen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Zwanenveld",
+          "Nijmegen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79548,
+          51.822619
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Dukenburg (Nijmegen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Zwanenveld",
+          "Nijmegen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.797692,
+          51.822478
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Dukenburg (Nijmegen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Zwanenveld",
+          "Nijmegen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.480265,
+          52.727914
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Markt Zuid (Hoogeveen)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Markt",
+          "Hoogeveen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.319712,
+          52.077186
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Stadhuis (Den Haag)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Schedeldoekshaven",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31941,
+          52.076734
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Stadhuis (Den Haag)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Ammunitiehaven",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.093035,
+          51.558915
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Parkeergarage 013-Tivoli (Tilburg)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Achter de Heuvel",
+          "Tilburg"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.092624,
+          51.558031
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Parkeergarage 013-Tivoli (Tilburg)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Achter de Heuvel",
+          "Tilburg"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.523013,
+          52.306834
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage De Hagen (Rijssen)",
+        "usage": "Parkeergarage",
+        "address": [
+          "De Hagen",
+          "Rijssen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.702187,
+          52.292153
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "P+R Hoofddorp (Haarlemmermeer)",
+        "usage": "Park & Ride",
+        "address": [
+          "Taurusavenue",
+          "Hoofddorp"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.702881,
+          52.292083
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "P+R Hoofddorp (Haarlemmermeer)",
+        "usage": "Park & Ride",
+        "address": [
+          "Scorpius",
+          "Hoofddorp"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.60608,
+          51.498054
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Achter de Houttuinen (Middelburg)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Achter de Houttuinen",
+          "Middelburg"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.424606,
+          51.435939
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "P+R Meerhoven",
+        "usage": "Parkeergarage",
+        "address": [
+          "Sliffertsestraat",
+          "Eindhoven"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.494145,
+          52.060735
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Frankrijklaan (Zoetermeer)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Frankrijklaan",
+          "Zoetermeer"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.275586,
+          52.050573
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Leyweg 2 (Den Haag)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Hengelolaan",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.479616,
+          52.728219
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Terrein Markt Noord (Hoogeveen)",
+        "usage": "Terrein Parkeren",
+        "address": [
+          "Markt",
+          "Hoogeveen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.549288,
+          51.888628
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Hart van IJsselmonde (Rotterdam)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Koningswaard",
+          "Rotterdam"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.54811,
+          51.888493
+        ]
+      },
+      "properties": {
+        "identifier": "accessPoint",
+        "name": "Garage Hart van IJsselmonde (Rotterdam)",
+        "usage": "Parkeergarage",
+        "address": [
+          "Koningswaard",
+          "Rotterdam"
+        ]
+      }
+    }
+  ]
+}

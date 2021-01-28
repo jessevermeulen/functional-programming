@@ -4,5 +4,11 @@
   "author": {
     "name": "Jesse Vermeulen",
     "domain": "https://jessevermeulen.com"
-  }
+  },
+  "buttons": [
+    "Betaald Parkeren",
+    "Parkeergarage",
+    "Park & Ride",
+    "Terrein Parkeren"
+  ]
 }

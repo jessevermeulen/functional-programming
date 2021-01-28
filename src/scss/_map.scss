@@ -1,6 +1,37 @@
 .map {
   width: 80%;
   overflow: hidden;
+
+  .tooltip {
+    .tooltip-municipality {
+      background: var(--map-fill);
+    }
+
+    .tooltip-Parkeergarage {
+      background: #8390FA;
+    }
+
+    .tooltip-ParkRide {
+      background: #00BFB2;
+    }
+
+    .tooltip-TerreinParkeren {
+      background: #F6AE2D;
+    }
+  }
+
+  svg g:last-child circle {
+    &.Parkeergarage {
+      fill: #8390FA;
+    }
+    &.ParkRide {
+      fill: #00BFB2;
+    }
+
+    &.TerreinParkeren {
+      fill: #F6AE2D;
+    }
+  }
 }
 
 .tooltip {
@@ -21,18 +52,11 @@
     left: -1rem;
     top: -1rem;
     width: 100%;
-    padding: .5rem 1rem;
-    font-size: .75rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.75rem;
     font-weight: 700;
     color: #fff;
-
-    &.tooltip-municipality {
-      background: var(--map-fill);
-    }
-
-    &.tooltip-point {
-      background: var(--map-fill-hover);
-    }
+    background: #DB5461;
   }
 }
 
@@ -50,7 +74,7 @@ svg {
   }
 
   g:last-child circle {
-    fill: var(--map-fill-hover);
+    fill: #DB5461;
     stroke: #fff;
     stroke-width: 1px;
     transition: fill 0.2s;

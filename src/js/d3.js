@@ -1,6 +1,6 @@
 import * as d3 from 'd3';
 import municipalities from '../data/d3/netherlands-municipalities.json';
-import parkingAreas from '../data/node/parking-areas.json';
+import parkingSelling from '../data/node/parking-areas.json';
 
 const cities = [
   `'s-Hertogenbosch`,
@@ -11,7 +11,7 @@ const cities = [
   'Groningen',
 ];
 
-function renderMap(municipalities, parkingAreas) {
+function renderMap(municipalities, parkingSelling) {
   const width = 1000;
   const height = width;
   const scale = width * 10;
@@ -71,7 +71,7 @@ function renderMap(municipalities, parkingAreas) {
   let points = svg
     .select('g.points')
     .selectAll('circle')
-    .data(parkingAreas.features);
+    .data(parkingSelling.features);
 
   points
     .enter()
@@ -99,4 +99,4 @@ function renderMap(municipalities, parkingAreas) {
     });
 }
 
-renderMap(municipalities, parkingAreas);
+renderMap(municipalities, parkingSelling);

@@ -11,7 +11,9 @@
         ]
       },
       "properties": {
-        "name": "Hendrik Tollensstraat e.o."
+        "identifier": "sellingPoint",
+        "name": "Hendrik Tollensstraat e.o.",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -24,7 +26,9 @@
         ]
       },
       "properties": {
-        "name": "Ridderstraat"
+        "identifier": "sellingPoint",
+        "name": "Ridderstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -37,7 +41,9 @@
         ]
       },
       "properties": {
-        "name": "Arendsplein 31"
+        "identifier": "sellingPoint",
+        "name": "Arendsplein 31",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -50,7 +56,9 @@
         ]
       },
       "properties": {
-        "name": "De Braak"
+        "identifier": "sellingPoint",
+        "name": "De Braak",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -63,7 +71,9 @@
         ]
       },
       "properties": {
-        "name": "Santrijnhof"
+        "identifier": "sellingPoint",
+        "name": "Santrijnhof",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -76,7 +86,9 @@
         ]
       },
       "properties": {
-        "name": "Klappeijstraat"
+        "identifier": "sellingPoint",
+        "name": "Klappeijstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -89,7 +101,9 @@
         ]
       },
       "properties": {
-        "name": "De Braak"
+        "identifier": "sellingPoint",
+        "name": "De Braak",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -102,7 +116,9 @@
         ]
       },
       "properties": {
-        "name": "Ridderstraat"
+        "identifier": "sellingPoint",
+        "name": "Ridderstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -115,7 +131,9 @@
         ]
       },
       "properties": {
-        "name": "Arendsplein 31"
+        "identifier": "sellingPoint",
+        "name": "Arendsplein 31",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -128,7 +146,9 @@
         ]
       },
       "properties": {
-        "name": "De Braak"
+        "identifier": "sellingPoint",
+        "name": "De Braak",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -141,7 +161,9 @@
         ]
       },
       "properties": {
-        "name": "Santrijnhof"
+        "identifier": "sellingPoint",
+        "name": "Santrijnhof",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -154,7 +176,9 @@
         ]
       },
       "properties": {
-        "name": "Klappeijstraat"
+        "identifier": "sellingPoint",
+        "name": "Klappeijstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -167,7 +191,9 @@
         ]
       },
       "properties": {
-        "name": "De Braak"
+        "identifier": "sellingPoint",
+        "name": "De Braak",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -180,7 +206,9 @@
         ]
       },
       "properties": {
-        "name": "Raadhuisplein"
+        "identifier": "sellingPoint",
+        "name": "Raadhuisplein",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -193,7 +221,9 @@
         ]
       },
       "properties": {
-        "name": "Raadhuisplein"
+        "identifier": "sellingPoint",
+        "name": "Raadhuisplein",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -206,7 +236,9 @@
         ]
       },
       "properties": {
-        "name": "1116"
+        "identifier": "sellingPoint",
+        "name": "1116",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -219,7 +251,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -232,7 +266,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -245,7 +281,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -258,7 +296,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -271,7 +311,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -284,7 +326,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -297,7 +341,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -310,7 +356,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -323,7 +371,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -336,7 +386,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -349,7 +401,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -362,7 +416,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -375,7 +431,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -388,7 +446,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -401,7 +461,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -414,7 +476,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -427,7 +491,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -440,7 +506,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -453,7 +521,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -466,7 +536,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -479,7 +551,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -492,7 +566,9 @@
         ]
       },
       "properties": {
-        "name": "Zone B max 2 uur"
+        "identifier": "sellingPoint",
+        "name": "Zone B max 2 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -505,7 +581,9 @@
         ]
       },
       "properties": {
-        "name": "Rozenhof"
+        "identifier": "sellingPoint",
+        "name": "Rozenhof",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -518,7 +596,9 @@
         ]
       },
       "properties": {
-        "name": "Molenstraat"
+        "identifier": "sellingPoint",
+        "name": "Molenstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -531,7 +611,9 @@
         ]
       },
       "properties": {
-        "name": "Molenstraat (markt)"
+        "identifier": "sellingPoint",
+        "name": "Molenstraat (markt)",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -544,7 +626,9 @@
         ]
       },
       "properties": {
-        "name": "Tariefsgebied F"
+        "identifier": "sellingPoint",
+        "name": "Tariefsgebied F",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -557,7 +641,9 @@
         ]
       },
       "properties": {
-        "name": "Geldersedam"
+        "identifier": "sellingPoint",
+        "name": "Geldersedam",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -570,7 +656,9 @@
         ]
       },
       "properties": {
-        "name": "Dichterswijk-oost"
+        "identifier": "sellingPoint",
+        "name": "Dichterswijk-oost",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -583,7 +671,9 @@
         ]
       },
       "properties": {
-        "name": "S_kl_dr"
+        "identifier": "sellingPoint",
+        "name": "S_kl_dr",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -596,7 +686,9 @@
         ]
       },
       "properties": {
-        "name": "Havensingel 1 (nabij Wilhelminabrug)"
+        "identifier": "sellingPoint",
+        "name": "Havensingel 1 (nabij Wilhelminabrug)",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -609,7 +701,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -622,7 +716,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -635,7 +731,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -648,7 +746,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -661,7 +761,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -674,7 +776,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -687,7 +791,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -700,7 +806,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -713,7 +821,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -726,7 +836,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -739,7 +851,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -752,7 +866,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -765,7 +881,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -778,7 +896,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -791,7 +911,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -804,7 +926,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -817,7 +941,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -830,7 +956,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -843,7 +971,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -856,7 +986,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3"
+        "identifier": "sellingPoint",
+        "name": "Zone 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -869,7 +1001,9 @@
         ]
       },
       "properties": {
-        "name": "Oranje Nassaulaan"
+        "identifier": "sellingPoint",
+        "name": "Oranje Nassaulaan",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -882,7 +1016,9 @@
         ]
       },
       "properties": {
-        "name": "Oranje Nassaulaan"
+        "identifier": "sellingPoint",
+        "name": "Oranje Nassaulaan",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -895,7 +1031,9 @@
         ]
       },
       "properties": {
-        "name": "Lombok"
+        "identifier": "sellingPoint",
+        "name": "Lombok",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -908,7 +1046,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 3, max 2 uur parkeren"
+        "identifier": "sellingPoint",
+        "name": "Zone 3, max 2 uur parkeren",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -921,7 +1061,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Kerkhofslaan.parkeermeter 2301, ? 1,00 Per Uur, Max ? 2,00 Per Dag,"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Kerkhofslaan.parkeermeter 2301, ? 1,00 Per Uur, Max ? 2,00 Per Dag,",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -934,7 +1076,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Waterpoortsgracht. Parkeermeter 2602, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Waterpoortsgracht. Parkeermeter 2602, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -947,7 +1091,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Waterpoortsgracht. Parkeermeter 2601, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Waterpoortsgracht. Parkeermeter 2601, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -960,7 +1106,9 @@
         ]
       },
       "properties": {
-        "name": "1001 Rotterdamseweg"
+        "identifier": "sellingPoint",
+        "name": "1001 Rotterdamseweg",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -973,7 +1121,9 @@
         ]
       },
       "properties": {
-        "name": "Rie Mastenbroekweg"
+        "identifier": "sellingPoint",
+        "name": "Rie Mastenbroekweg",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -986,7 +1136,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 4, max 2 uur parkeren"
+        "identifier": "sellingPoint",
+        "name": "Zone 4, max 2 uur parkeren",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -999,7 +1151,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 4, max 2 uur parkeren"
+        "identifier": "sellingPoint",
+        "name": "Zone 4, max 2 uur parkeren",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1012,7 +1166,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 4, max 2 uur parkeren"
+        "identifier": "sellingPoint",
+        "name": "Zone 4, max 2 uur parkeren",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1025,7 +1181,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 4, max 2 uur parkeren"
+        "identifier": "sellingPoint",
+        "name": "Zone 4, max 2 uur parkeren",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1038,7 +1196,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 4, max 2 uur parkeren"
+        "identifier": "sellingPoint",
+        "name": "Zone 4, max 2 uur parkeren",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1051,7 +1211,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 4, max 2 uur parkeren"
+        "identifier": "sellingPoint",
+        "name": "Zone 4, max 2 uur parkeren",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1064,7 +1226,9 @@
         ]
       },
       "properties": {
-        "name": "Koninginnenlaan / Havenstraat"
+        "identifier": "sellingPoint",
+        "name": "Koninginnenlaan / Havenstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1077,7 +1241,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Singel. Parkeermeter 1701, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Singel. Parkeermeter 1701, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1090,7 +1256,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Singel. Parkeermeter 1702, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Singel. Parkeermeter 1702, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1103,7 +1271,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Singel. Parkeermeter 1703, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Singel. Parkeermeter 1703, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1116,7 +1286,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Singel. Parkeermeter 1704, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Singel. Parkeermeter 1704, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1129,7 +1301,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Singel. Parkeermeter 1705, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Singel. Parkeermeter 1705, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1142,7 +1316,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Singel. Parkeermeter 1706, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Singel. Parkeermeter 1706, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1155,7 +1331,9 @@
         ]
       },
       "properties": {
-        "name": "Bergen (zone B)"
+        "identifier": "sellingPoint",
+        "name": "Bergen (zone B)",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1168,7 +1346,9 @@
         ]
       },
       "properties": {
-        "name": "Oosterstraat I"
+        "identifier": "sellingPoint",
+        "name": "Oosterstraat I",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1181,7 +1361,9 @@
         ]
       },
       "properties": {
-        "name": "Oosterstraat Ii"
+        "identifier": "sellingPoint",
+        "name": "Oosterstraat Ii",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1194,7 +1376,9 @@
         ]
       },
       "properties": {
-        "name": "Straatparkeren Tegelzetterdek AS"
+        "identifier": "sellingPoint",
+        "name": "straatparkeren Tegelzetterdek AS",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1207,7 +1391,9 @@
         ]
       },
       "properties": {
-        "name": "Veluwehal Noord West"
+        "identifier": "sellingPoint",
+        "name": "Veluwehal Noord West",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1220,7 +1406,9 @@
         ]
       },
       "properties": {
-        "name": "Veluwehal Noord West"
+        "identifier": "sellingPoint",
+        "name": "Veluwehal Noord West",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1233,7 +1421,9 @@
         ]
       },
       "properties": {
-        "name": "Badhuisweg"
+        "identifier": "sellingPoint",
+        "name": "Badhuisweg",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1246,7 +1436,9 @@
         ]
       },
       "properties": {
-        "name": "Hooch Boulandt"
+        "identifier": "sellingPoint",
+        "name": "Hooch Boulandt",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1259,7 +1451,9 @@
         ]
       },
       "properties": {
-        "name": "Oostwal"
+        "identifier": "sellingPoint",
+        "name": "Oostwal",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1272,7 +1466,9 @@
         ]
       },
       "properties": {
-        "name": "Centrum"
+        "identifier": "sellingPoint",
+        "name": "Centrum",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1285,7 +1481,9 @@
         ]
       },
       "properties": {
-        "name": "Tunnel_ter"
+        "identifier": "sellingPoint",
+        "name": "Tunnel_ter",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1298,7 +1496,9 @@
         ]
       },
       "properties": {
-        "name": "Bolsward, Broereplein. Pmeter 9908,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur"
+        "identifier": "sellingPoint",
+        "name": "Bolsward, Broereplein. Pmeter 9908,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1311,7 +1511,9 @@
         ]
       },
       "properties": {
-        "name": "Markt"
+        "identifier": "sellingPoint",
+        "name": "Markt",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1324,7 +1526,9 @@
         ]
       },
       "properties": {
-        "name": "Markt"
+        "identifier": "sellingPoint",
+        "name": "Markt",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1337,7 +1541,9 @@
         ]
       },
       "properties": {
-        "name": "Markt"
+        "identifier": "sellingPoint",
+        "name": "Markt",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1350,7 +1556,9 @@
         ]
       },
       "properties": {
-        "name": "Markt"
+        "identifier": "sellingPoint",
+        "name": "Markt",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1363,7 +1571,9 @@
         ]
       },
       "properties": {
-        "name": "Gebied 9254"
+        "identifier": "sellingPoint",
+        "name": "Gebied 9254",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1376,7 +1586,9 @@
         ]
       },
       "properties": {
-        "name": "Gasthuisstraat"
+        "identifier": "sellingPoint",
+        "name": "Gasthuisstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1389,7 +1601,9 @@
         ]
       },
       "properties": {
-        "name": "Verkooppunt Ijsselkade"
+        "identifier": "sellingPoint",
+        "name": "Verkooppunt Ijsselkade",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1402,7 +1616,9 @@
         ]
       },
       "properties": {
-        "name": "Verkooppunt Ijsselkade 16 27"
+        "identifier": "sellingPoint",
+        "name": "Verkooppunt Ijsselkade 16 27",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1415,7 +1631,9 @@
         ]
       },
       "properties": {
-        "name": "Bolsward, Skilwyk,  Pmeter 9306,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur"
+        "identifier": "sellingPoint",
+        "name": "Bolsward, Skilwyk,  Pmeter 9306,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1428,7 +1646,9 @@
         ]
       },
       "properties": {
-        "name": "Schil tarief Overstad"
+        "identifier": "sellingPoint",
+        "name": "Schil tarief Overstad",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1441,7 +1661,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 1"
+        "identifier": "sellingPoint",
+        "name": "Zone 1",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1454,7 +1676,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 1"
+        "identifier": "sellingPoint",
+        "name": "Zone 1",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1467,7 +1691,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 1"
+        "identifier": "sellingPoint",
+        "name": "Zone 1",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1480,7 +1706,9 @@
         ]
       },
       "properties": {
-        "name": "Zone 1"
+        "identifier": "sellingPoint",
+        "name": "Zone 1",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1493,7 +1721,9 @@
         ]
       },
       "properties": {
-        "name": "Westhove"
+        "identifier": "sellingPoint",
+        "name": "Westhove",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1506,7 +1736,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 607 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 607 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1519,7 +1751,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 580 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 580 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1532,7 +1766,9 @@
         ]
       },
       "properties": {
-        "name": "Amstel 222 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Amstel 222 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1545,7 +1781,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 739 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 739 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1558,7 +1796,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 800 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 800 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1571,7 +1811,9 @@
         ]
       },
       "properties": {
-        "name": "Amstel 250 T/o"
+        "identifier": "sellingPoint",
+        "name": "Amstel 250 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1584,7 +1826,9 @@
         ]
       },
       "properties": {
-        "name": "Amstel 274 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Amstel 274 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1597,7 +1841,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 1095 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 1095 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1610,7 +1856,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 852 T/h"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 852 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1623,7 +1871,9 @@
         ]
       },
       "properties": {
-        "name": "Amstel 298 T/o"
+        "identifier": "sellingPoint",
+        "name": "Amstel 298 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1636,7 +1886,9 @@
         ]
       },
       "properties": {
-        "name": "Frederiksplein 11 T/h"
+        "identifier": "sellingPoint",
+        "name": "Frederiksplein 11 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1649,7 +1901,9 @@
         ]
       },
       "properties": {
-        "name": "Achtergracht 2 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Achtergracht 2 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1662,7 +1916,9 @@
         ]
       },
       "properties": {
-        "name": "Amstel 344 T/h"
+        "identifier": "sellingPoint",
+        "name": "Amstel 344 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1675,7 +1931,9 @@
         ]
       },
       "properties": {
-        "name": "Sarphatistraat 11 T/o"
+        "identifier": "sellingPoint",
+        "name": "Sarphatistraat 11 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1688,7 +1946,9 @@
         ]
       },
       "properties": {
-        "name": "Kerkstraat 378 T/h"
+        "identifier": "sellingPoint",
+        "name": "Kerkstraat 378 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1701,7 +1961,9 @@
         ]
       },
       "properties": {
-        "name": "Amstelveld 1 T/h"
+        "identifier": "sellingPoint",
+        "name": "Amstelveld 1 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1714,7 +1976,9 @@
         ]
       },
       "properties": {
-        "name": "Kerkstraat 268 T/h"
+        "identifier": "sellingPoint",
+        "name": "Kerkstraat 268 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1727,7 +1991,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Looiersstraat 86 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Looiersstraat 86 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1740,7 +2006,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 583 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 583 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1753,7 +2021,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 543 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 543 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1766,7 +2036,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 516 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 516 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1779,7 +2051,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 548 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 548 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1792,7 +2066,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 683 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 683 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1805,7 +2081,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 661 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 661 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1818,7 +2096,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 629 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 629 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1831,7 +2111,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 676 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 676 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1844,7 +2126,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 714 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 714 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1857,7 +2141,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 740 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 740 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1870,7 +2156,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 1049 T/h"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 1049 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1883,7 +2171,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 1047 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 1047 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1896,7 +2186,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 987 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 987 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1909,7 +2201,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 674 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 674 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1922,7 +2216,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 718 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 718 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1935,7 +2231,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 774 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 774 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1948,7 +2246,9 @@
         ]
       },
       "properties": {
-        "name": "Weteringschans 269 T/h"
+        "identifier": "sellingPoint",
+        "name": "Weteringschans 269 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1961,7 +2261,9 @@
         ]
       },
       "properties": {
-        "name": "Weteringschans 239 T/h"
+        "identifier": "sellingPoint",
+        "name": "Weteringschans 239 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1974,7 +2276,9 @@
         ]
       },
       "properties": {
-        "name": "Weteringschans 193_bord"
+        "identifier": "sellingPoint",
+        "name": "Weteringschans 193_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -1987,7 +2291,9 @@
         ]
       },
       "properties": {
-        "name": "Falckstraat 10 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Falckstraat 10 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2000,7 +2306,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 325 T/o"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 325 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2013,7 +2321,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 374 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 374 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2026,7 +2336,9 @@
         ]
       },
       "properties": {
-        "name": "Frederiksplein 26 T/o"
+        "identifier": "sellingPoint",
+        "name": "Frederiksplein 26 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2039,7 +2351,9 @@
         ]
       },
       "properties": {
-        "name": "Noorderstraat 83 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Noorderstraat 83 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2052,7 +2366,9 @@
         ]
       },
       "properties": {
-        "name": "Noorderstraat 21 T/o"
+        "identifier": "sellingPoint",
+        "name": "Noorderstraat 21 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2065,7 +2381,9 @@
         ]
       },
       "properties": {
-        "name": "Fokke Simonszstraat 31 T/h"
+        "identifier": "sellingPoint",
+        "name": "Fokke Simonszstraat 31 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2078,7 +2396,9 @@
         ]
       },
       "properties": {
-        "name": "Reguliersgracht 126 T/o"
+        "identifier": "sellingPoint",
+        "name": "Reguliersgracht 126 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2091,7 +2411,9 @@
         ]
       },
       "properties": {
-        "name": "Reguliersgracht 105 T/h"
+        "identifier": "sellingPoint",
+        "name": "Reguliersgracht 105 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2104,7 +2426,9 @@
         ]
       },
       "properties": {
-        "name": "Tweede Weteringplantsoen 15 T/o"
+        "identifier": "sellingPoint",
+        "name": "Tweede Weteringplantsoen 15 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2117,7 +2441,9 @@
         ]
       },
       "properties": {
-        "name": "Nicolaas Witsenkade 12 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nicolaas Witsenkade 12 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2130,7 +2456,9 @@
         ]
       },
       "properties": {
-        "name": "Nicolaas Witsenstraat 10 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nicolaas Witsenstraat 10 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2143,7 +2471,9 @@
         ]
       },
       "properties": {
-        "name": "Westeinde 14 T/h"
+        "identifier": "sellingPoint",
+        "name": "Westeinde 14 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2156,7 +2486,9 @@
         ]
       },
       "properties": {
-        "name": "Nicolaas Witsenkade 46 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nicolaas Witsenkade 46 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2169,7 +2501,9 @@
         ]
       },
       "properties": {
-        "name": "Pieter Pauwstraat 14 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Pieter Pauwstraat 14 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2182,7 +2516,9 @@
         ]
       },
       "properties": {
-        "name": "Nicolaas Witsenkade 32 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Nicolaas Witsenkade 32 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2195,7 +2531,9 @@
         ]
       },
       "properties": {
-        "name": "Sarphatistraat 4 T/h"
+        "identifier": "sellingPoint",
+        "name": "Sarphatistraat 4 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2208,7 +2546,9 @@
         ]
       },
       "properties": {
-        "name": "Sarphatikade 6 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Sarphatikade 6 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2221,7 +2561,9 @@
         ]
       },
       "properties": {
-        "name": "Sarphatikade 13 T/h"
+        "identifier": "sellingPoint",
+        "name": "Sarphatikade 13 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2234,7 +2576,9 @@
         ]
       },
       "properties": {
-        "name": "Oosteinde 21 T/o"
+        "identifier": "sellingPoint",
+        "name": "Oosteinde 21 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2247,7 +2591,9 @@
         ]
       },
       "properties": {
-        "name": "Utrechtsedwarsstraat 40 T/h"
+        "identifier": "sellingPoint",
+        "name": "Utrechtsedwarsstraat 40 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2260,7 +2606,9 @@
         ]
       },
       "properties": {
-        "name": "Utrechtsedwarsstraat 136 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Utrechtsedwarsstraat 136 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2273,7 +2621,9 @@
         ]
       },
       "properties": {
-        "name": "Frederiksplein 42 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Frederiksplein 42 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2286,7 +2636,9 @@
         ]
       },
       "properties": {
-        "name": "Frederiksplein 47 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Frederiksplein 47 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2299,7 +2651,9 @@
         ]
       },
       "properties": {
-        "name": "Eerste Weteringdwarsstraat 30 T/h"
+        "identifier": "sellingPoint",
+        "name": "Eerste Weteringdwarsstraat 30 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2312,7 +2666,9 @@
         ]
       },
       "properties": {
-        "name": "Tweede Weteringdwarsstraat 33 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Tweede Weteringdwarsstraat 33 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2325,7 +2681,9 @@
         ]
       },
       "properties": {
-        "name": "Derde Weteringdwarsstraat 19 T/o"
+        "identifier": "sellingPoint",
+        "name": "Derde Weteringdwarsstraat 19 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2338,7 +2696,9 @@
         ]
       },
       "properties": {
-        "name": "Reguliersdwarsstraat 42 T/h"
+        "identifier": "sellingPoint",
+        "name": "Reguliersdwarsstraat 42 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2351,7 +2711,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 497 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 497 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2364,7 +2726,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 473 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 473 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2377,7 +2741,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 396 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 396 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2390,7 +2756,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 450 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 450 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2403,7 +2771,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 474 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 474 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2416,7 +2786,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 573 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 573 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2429,7 +2801,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 515 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 515 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2442,7 +2816,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 489 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 489 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2455,7 +2831,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 421 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 421 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2468,7 +2846,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 464 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 464 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2481,7 +2861,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 540 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 540 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2494,7 +2876,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 572 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 572 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2507,7 +2891,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 630 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 630 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2520,7 +2906,9 @@
         ]
       },
       "properties": {
-        "name": "Vijzelstraat 72 T/h"
+        "identifier": "sellingPoint",
+        "name": "Vijzelstraat 72 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2533,7 +2921,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 855 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 855 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2546,7 +2936,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 769 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 769 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2559,7 +2951,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 729 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 729 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2572,7 +2966,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 669 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 669 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2585,7 +2981,9 @@
         ]
       },
       "properties": {
-        "name": "Leidsegracht 107 T/o"
+        "identifier": "sellingPoint",
+        "name": "Leidsegracht 107 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2598,7 +2996,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 502"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 502",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2611,7 +3011,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 602 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 602 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2624,7 +3026,9 @@
         ]
       },
       "properties": {
-        "name": "Eerste Weteringplantsoen 6 T/h"
+        "identifier": "sellingPoint",
+        "name": "Eerste Weteringplantsoen 6 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2637,7 +3041,9 @@
         ]
       },
       "properties": {
-        "name": "Weteringschans 125 T/h"
+        "identifier": "sellingPoint",
+        "name": "Weteringschans 125 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2650,7 +3056,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 302 T/o"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 302 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2663,7 +3071,9 @@
         ]
       },
       "properties": {
-        "name": "Zieseniskade 18 T/o"
+        "identifier": "sellingPoint",
+        "name": "Zieseniskade 18 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2676,7 +3086,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 260 T/h"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 260 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2689,7 +3101,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 284 T/o"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 284 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2702,7 +3116,9 @@
         ]
       },
       "properties": {
-        "name": "Weteringschans 16 T/o"
+        "identifier": "sellingPoint",
+        "name": "Weteringschans 16 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2715,7 +3131,9 @@
         ]
       },
       "properties": {
-        "name": "Leidsegracht 117 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Leidsegracht 117 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2728,7 +3146,9 @@
         ]
       },
       "properties": {
-        "name": "Leidsekade 81 T/o"
+        "identifier": "sellingPoint",
+        "name": "Leidsekade 81 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2741,7 +3161,9 @@
         ]
       },
       "properties": {
-        "name": "Leidsekade 89"
+        "identifier": "sellingPoint",
+        "name": "Leidsekade 89",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2754,7 +3176,9 @@
         ]
       },
       "properties": {
-        "name": "Kerkstraat 30 _bord"
+        "identifier": "sellingPoint",
+        "name": "Kerkstraat 30 _bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2767,7 +3191,9 @@
         ]
       },
       "properties": {
-        "name": "Kerkstraat 63 T/h"
+        "identifier": "sellingPoint",
+        "name": "Kerkstraat 63 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2780,7 +3206,9 @@
         ]
       },
       "properties": {
-        "name": "Kerkstraat 134 T/h"
+        "identifier": "sellingPoint",
+        "name": "Kerkstraat 134 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2793,7 +3221,9 @@
         ]
       },
       "properties": {
-        "name": "Kerkstraat 180 T/h"
+        "identifier": "sellingPoint",
+        "name": "Kerkstraat 180 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2806,7 +3236,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 306 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 306 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2819,7 +3251,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 380 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 380 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2832,7 +3266,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 432 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 432 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2845,7 +3281,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 425 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 425 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2858,7 +3296,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 395 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 395 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2871,7 +3311,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 335 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 335 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2884,7 +3326,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 281 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 281 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2897,7 +3341,9 @@
         ]
       },
       "properties": {
-        "name": "Raadhuisstraat 39 T/h"
+        "identifier": "sellingPoint",
+        "name": "Raadhuisstraat 39 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2910,7 +3356,9 @@
         ]
       },
       "properties": {
-        "name": "Raadhuisstraat 15 T/h"
+        "identifier": "sellingPoint",
+        "name": "Raadhuisstraat 15 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2923,7 +3371,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 214 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 214 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2936,7 +3386,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 284 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 284 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2949,7 +3401,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 328 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 328 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2962,7 +3416,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 376 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 376 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2975,7 +3431,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 389 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 389 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -2988,7 +3446,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 331 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 331 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3001,7 +3461,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 271 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 271 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3014,7 +3476,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 209 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 209 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3027,7 +3491,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 220 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 220 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3040,7 +3506,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 274 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 274 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3053,7 +3521,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 374 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 374 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3066,7 +3536,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 436 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 436 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3079,7 +3551,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 665 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 665 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3092,7 +3566,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 547 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 547 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3105,7 +3581,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 437 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 437 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3118,7 +3596,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 323"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 323",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3131,7 +3611,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 387 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Singel 387 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3144,7 +3626,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 353 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Singel 353 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3157,7 +3641,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 287 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 287 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3170,7 +3656,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 237"
+        "identifier": "sellingPoint",
+        "name": "Singel 237",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3183,7 +3671,9 @@
         ]
       },
       "properties": {
-        "name": "Spuistraat 210 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Spuistraat 210 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3196,7 +3686,9 @@
         ]
       },
       "properties": {
-        "name": "Spuistraat 248 T/h"
+        "identifier": "sellingPoint",
+        "name": "Spuistraat 248 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3209,7 +3701,9 @@
         ]
       },
       "properties": {
-        "name": "Spuistraat 294 T/h"
+        "identifier": "sellingPoint",
+        "name": "Spuistraat 294 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3222,7 +3716,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwezijds Voorburgwal 347"
+        "identifier": "sellingPoint",
+        "name": "Nieuwezijds Voorburgwal 347",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3235,7 +3731,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwezijds Voorburgwal 260 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwezijds Voorburgwal 260 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3248,7 +3746,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwezijds Voorburgwal 151 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwezijds Voorburgwal 151 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3261,7 +3761,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 16 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Singel 16 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3274,7 +3776,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 74 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 74 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3287,7 +3791,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 108 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Singel 108 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3300,7 +3806,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 160 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 160 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3313,7 +3821,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 210 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 210 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3326,7 +3836,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 197 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 197 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3339,7 +3851,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 103 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 103 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3352,7 +3866,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 77 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 77 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3365,7 +3881,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 33 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 33 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3378,7 +3896,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 14 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 14 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3391,7 +3911,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 58 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 58 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3404,7 +3926,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 104 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 104 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3417,7 +3941,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 130 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 130 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3430,7 +3956,9 @@
         ]
       },
       "properties": {
-        "name": "Herengracht 168 T/o"
+        "identifier": "sellingPoint",
+        "name": "Herengracht 168 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3443,7 +3971,9 @@
         ]
       },
       "properties": {
-        "name": "Raadhuisstraat 40 T/h"
+        "identifier": "sellingPoint",
+        "name": "Raadhuisstraat 40 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3456,7 +3986,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 179 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 179 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3469,7 +4001,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 121 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 121 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3482,7 +4016,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 95 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 95 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3495,7 +4031,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 28 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 28 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3508,7 +4046,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 138 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 138 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3521,7 +4061,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 172 T/o"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 172 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3534,7 +4076,9 @@
         ]
       },
       "properties": {
-        "name": "Keizersgracht 198_bord"
+        "identifier": "sellingPoint",
+        "name": "Keizersgracht 198_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3547,7 +4091,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 247 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 247 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3560,7 +4106,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 227 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 227 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3573,7 +4121,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 195 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 195 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3586,7 +4136,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 135 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 135 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3599,7 +4151,9 @@
         ]
       },
       "properties": {
-        "name": "Brouwersgracht 63 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Brouwersgracht 63 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3612,7 +4166,9 @@
         ]
       },
       "properties": {
-        "name": "Brouwersgracht 62"
+        "identifier": "sellingPoint",
+        "name": "Brouwersgracht 62",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3625,7 +4181,9 @@
         ]
       },
       "properties": {
-        "name": "Korte Prinsengracht 109 T/o"
+        "identifier": "sellingPoint",
+        "name": "Korte Prinsengracht 109 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3638,7 +4196,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmerstraat 122 T/h"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmerstraat 122 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3651,7 +4211,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmerstraat 91 Hoek"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmerstraat 91 Hoek",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3664,7 +4226,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmerstraat 27 T/h"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmerstraat 27 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3677,7 +4241,9 @@
         ]
       },
       "properties": {
-        "name": "Droogbak 16 T/h"
+        "identifier": "sellingPoint",
+        "name": "Droogbak 16 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3690,7 +4256,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmer Houttuinen 37 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmer Houttuinen 37 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3703,7 +4271,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmer Houttuinen 65 T/h"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmer Houttuinen 65 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3716,7 +4286,9 @@
         ]
       },
       "properties": {
-        "name": "Droogbak 1 T/h"
+        "identifier": "sellingPoint",
+        "name": "Droogbak 1 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3729,7 +4301,9 @@
         ]
       },
       "properties": {
-        "name": "Westerdokskade 1 T/h"
+        "identifier": "sellingPoint",
+        "name": "Westerdokskade 1 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3742,7 +4316,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 63_bord"
+        "identifier": "sellingPoint",
+        "name": "Singel 63_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3755,7 +4331,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 169 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 169 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3768,7 +4346,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 121 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 121 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3781,7 +4361,9 @@
         ]
       },
       "properties": {
-        "name": "Prins Hendrikkade 8 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prins Hendrikkade 8 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3794,7 +4376,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 15 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 15 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3807,7 +4391,9 @@
         ]
       },
       "properties": {
-        "name": "Singel 1 T/o"
+        "identifier": "sellingPoint",
+        "name": "Singel 1 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3820,7 +4406,9 @@
         ]
       },
       "properties": {
-        "name": "Spuistraat 2 T/h"
+        "identifier": "sellingPoint",
+        "name": "Spuistraat 2 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3833,7 +4421,9 @@
         ]
       },
       "properties": {
-        "name": "Spuistraat 38 T/h"
+        "identifier": "sellingPoint",
+        "name": "Spuistraat 38 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3846,7 +4436,9 @@
         ]
       },
       "properties": {
-        "name": "Spuistraat 78 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Spuistraat 78 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3859,7 +4451,9 @@
         ]
       },
       "properties": {
-        "name": "Spuistraat 122 T/o"
+        "identifier": "sellingPoint",
+        "name": "Spuistraat 122 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3872,7 +4466,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwezijds Voorburgwal 97 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwezijds Voorburgwal 97 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3885,7 +4481,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwezijds Voorburgwal 112 T/o"
+        "identifier": "sellingPoint",
+        "name": "Nieuwezijds Voorburgwal 112 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3898,7 +4496,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwezijds Voorburgwal 20 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Nieuwezijds Voorburgwal 20 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3911,7 +4511,9 @@
         ]
       },
       "properties": {
-        "name": "Prins Hendrikkade 161 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prins Hendrikkade 161 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3924,7 +4526,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 173 T/o"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 173 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3937,7 +4541,9 @@
         ]
       },
       "properties": {
-        "name": "Elandsgracht 69 T/o"
+        "identifier": "sellingPoint",
+        "name": "Elandsgracht 69 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3950,7 +4556,9 @@
         ]
       },
       "properties": {
-        "name": "Groenmarktkade 13 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Groenmarktkade 13 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3963,7 +4571,9 @@
         ]
       },
       "properties": {
-        "name": "Leidsegracht 70 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Leidsegracht 70 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3976,7 +4586,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 206 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 206 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -3989,7 +4601,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 252 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 252 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4002,7 +4616,9 @@
         ]
       },
       "properties": {
-        "name": "Lauriergracht 68 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Lauriergracht 68 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4015,7 +4631,9 @@
         ]
       },
       "properties": {
-        "name": "Lauriergracht 124 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Lauriergracht 124 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4028,7 +4646,9 @@
         ]
       },
       "properties": {
-        "name": "Lauriergracht 101 T/o"
+        "identifier": "sellingPoint",
+        "name": "Lauriergracht 101 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4041,7 +4661,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 276 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 276 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4054,7 +4676,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 310 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 310 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4067,7 +4691,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 348 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 348 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4080,7 +4706,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 410 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 410 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4093,7 +4721,9 @@
         ]
       },
       "properties": {
-        "name": "Rozengracht 36 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Rozengracht 36 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4106,7 +4736,9 @@
         ]
       },
       "properties": {
-        "name": "Rozengracht 82 T/h"
+        "identifier": "sellingPoint",
+        "name": "Rozengracht 82 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4119,7 +4751,9 @@
         ]
       },
       "properties": {
-        "name": "Rozengracht 232 T/h"
+        "identifier": "sellingPoint",
+        "name": "Rozengracht 232 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4132,7 +4766,9 @@
         ]
       },
       "properties": {
-        "name": "Groenmarktkade 1 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Groenmarktkade 1 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4145,7 +4781,9 @@
         ]
       },
       "properties": {
-        "name": "Rozengracht 139 T/h"
+        "identifier": "sellingPoint",
+        "name": "Rozengracht 139 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4158,7 +4796,9 @@
         ]
       },
       "properties": {
-        "name": "Rozenstraat 83 T/h"
+        "identifier": "sellingPoint",
+        "name": "Rozenstraat 83 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4171,7 +4811,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 136 T/h"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 136 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4184,7 +4826,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 202 T/h"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 202 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4197,7 +4841,9 @@
         ]
       },
       "properties": {
-        "name": "Laurierstraat 47 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Laurierstraat 47 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4210,7 +4856,9 @@
         ]
       },
       "properties": {
-        "name": "Laurierstraat 105"
+        "identifier": "sellingPoint",
+        "name": "Laurierstraat 105",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4223,7 +4871,9 @@
         ]
       },
       "properties": {
-        "name": "Oude Looiersstraat 42 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Oude Looiersstraat 42 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4236,7 +4886,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 189 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 189 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4249,7 +4901,9 @@
         ]
       },
       "properties": {
-        "name": "Looiersgracht 40 T/o"
+        "identifier": "sellingPoint",
+        "name": "Looiersgracht 40 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4262,7 +4916,9 @@
         ]
       },
       "properties": {
-        "name": "Looiersgracht 118 T/o"
+        "identifier": "sellingPoint",
+        "name": "Looiersgracht 118 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4275,7 +4931,9 @@
         ]
       },
       "properties": {
-        "name": "Looiersgracht 41 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Looiersgracht 41 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4288,7 +4946,9 @@
         ]
       },
       "properties": {
-        "name": "Passeerdersgracht 24 T/o"
+        "identifier": "sellingPoint",
+        "name": "Passeerdersgracht 24 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4301,7 +4961,9 @@
         ]
       },
       "properties": {
-        "name": "Passeerdersgracht 19 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Passeerdersgracht 19 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4314,7 +4976,9 @@
         ]
       },
       "properties": {
-        "name": "Raamplein 1 T/h"
+        "identifier": "sellingPoint",
+        "name": "Raamplein 1 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4327,7 +4991,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 226 T/h"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 226 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4340,7 +5006,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Passeerdersstraat 1 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Passeerdersstraat 1 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4353,7 +5021,9 @@
         ]
       },
       "properties": {
-        "name": "Leidsekade 69 T/o"
+        "identifier": "sellingPoint",
+        "name": "Leidsekade 69 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4366,7 +5036,9 @@
         ]
       },
       "properties": {
-        "name": "Prins Hendrikkade 190 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Prins Hendrikkade 190 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4379,7 +5051,9 @@
         ]
       },
       "properties": {
-        "name": "Schippersgracht 13 T/o"
+        "identifier": "sellingPoint",
+        "name": "Schippersgracht 13 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4392,7 +5066,9 @@
         ]
       },
       "properties": {
-        "name": "Rapenburgerplein 83 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Rapenburgerplein 83 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4405,7 +5081,9 @@
         ]
       },
       "properties": {
-        "name": "Anne Frankstraat 2 T/h"
+        "identifier": "sellingPoint",
+        "name": "Anne Frankstraat 2 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4418,7 +5096,9 @@
         ]
       },
       "properties": {
-        "name": "Rapenburgerstraat 85 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Rapenburgerstraat 85 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4431,7 +5111,9 @@
         ]
       },
       "properties": {
-        "name": "Rapenburgerstraat 163 T/h"
+        "identifier": "sellingPoint",
+        "name": "Rapenburgerstraat 163 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4444,7 +5126,9 @@
         ]
       },
       "properties": {
-        "name": "Muiderstraat 19 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Muiderstraat 19 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4457,7 +5141,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Herengracht 71 T/o"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Herengracht 71 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4470,7 +5156,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Herengracht 105 T/o"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Herengracht 105 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4483,7 +5171,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Herengracht 143 T/o"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Herengracht 143 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4496,7 +5186,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Herengracht 35 T/o"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Herengracht 35 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4509,7 +5201,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Amstelstraat 115 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Amstelstraat 115 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4522,7 +5216,9 @@
         ]
       },
       "properties": {
-        "name": "Prins Hendrikkade 163 T/h"
+        "identifier": "sellingPoint",
+        "name": "Prins Hendrikkade 163 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4535,7 +5231,9 @@
         ]
       },
       "properties": {
-        "name": "Foeliestraat 2 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Foeliestraat 2 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4548,7 +5246,9 @@
         ]
       },
       "properties": {
-        "name": "Foeliestraat 30 T/o"
+        "identifier": "sellingPoint",
+        "name": "Foeliestraat 30 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4561,7 +5261,9 @@
         ]
       },
       "properties": {
-        "name": "Valkenburgerstraat 102_bord"
+        "identifier": "sellingPoint",
+        "name": "Valkenburgerstraat 102_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4574,7 +5276,9 @@
         ]
       },
       "properties": {
-        "name": "Valkenburgerstraat 182 T/h"
+        "identifier": "sellingPoint",
+        "name": "Valkenburgerstraat 182 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4587,7 +5291,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Uilenburgerstraat 27 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Uilenburgerstraat 27 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4600,7 +5306,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Uilenburgerstraat 106 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Uilenburgerstraat 106 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4613,7 +5321,9 @@
         ]
       },
       "properties": {
-        "name": "Oudeschans 19 T/o"
+        "identifier": "sellingPoint",
+        "name": "Oudeschans 19 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4626,7 +5336,9 @@
         ]
       },
       "properties": {
-        "name": "Oudeschans 73 T/o"
+        "identifier": "sellingPoint",
+        "name": "Oudeschans 73 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4639,7 +5351,9 @@
         ]
       },
       "properties": {
-        "name": "S-gravenhekje 1 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "S-gravenhekje 1 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4652,7 +5366,9 @@
         ]
       },
       "properties": {
-        "name": "Rapenburg 56 T/h"
+        "identifier": "sellingPoint",
+        "name": "Rapenburg 56 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4665,7 +5381,9 @@
         ]
       },
       "properties": {
-        "name": "Waterlooplein 133 T/h"
+        "identifier": "sellingPoint",
+        "name": "Waterlooplein 133 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4678,7 +5396,9 @@
         ]
       },
       "properties": {
-        "name": "Korte Prinsengracht 2 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Korte Prinsengracht 2 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4691,7 +5411,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmer Houttuinen 319 T/o"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmer Houttuinen 319 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4704,7 +5426,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmer Houttuinen 439 T/h"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmer Houttuinen 439 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4717,7 +5441,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmer Houttuinen 491 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmer Houttuinen 491 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4730,7 +5456,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmerdijk 139 T/h"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmerdijk 139 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4743,7 +5471,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmerdijk 87 T/h"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmerdijk 87 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4756,7 +5486,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmerdijk 31 T/h"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmerdijk 31 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4769,7 +5501,9 @@
         ]
       },
       "properties": {
-        "name": "Brouwersgracht 190 T/h"
+        "identifier": "sellingPoint",
+        "name": "Brouwersgracht 190 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4782,7 +5516,9 @@
         ]
       },
       "properties": {
-        "name": "Brouwersgracht 244 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Brouwersgracht 244 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4795,7 +5531,9 @@
         ]
       },
       "properties": {
-        "name": "Brouwersgracht 278 T/o"
+        "identifier": "sellingPoint",
+        "name": "Brouwersgracht 278 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4808,7 +5546,9 @@
         ]
       },
       "properties": {
-        "name": "Haarlemmerplein 13 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Haarlemmerplein 13 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4821,7 +5561,9 @@
         ]
       },
       "properties": {
-        "name": "Vinkenstraat 169 T/h"
+        "identifier": "sellingPoint",
+        "name": "Vinkenstraat 169 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4834,7 +5576,9 @@
         ]
       },
       "properties": {
-        "name": "Korte Marnixstraat 10 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Korte Marnixstraat 10 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4847,7 +5591,9 @@
         ]
       },
       "properties": {
-        "name": "Korte Marnixkade 6 T/o"
+        "identifier": "sellingPoint",
+        "name": "Korte Marnixkade 6 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4860,7 +5606,9 @@
         ]
       },
       "properties": {
-        "name": "Vinkenstraat 43 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Vinkenstraat 43 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4873,7 +5621,9 @@
         ]
       },
       "properties": {
-        "name": "Westerstraat 405 T/h"
+        "identifier": "sellingPoint",
+        "name": "Westerstraat 405 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4886,7 +5636,9 @@
         ]
       },
       "properties": {
-        "name": "Westerstraat 155 T/o"
+        "identifier": "sellingPoint",
+        "name": "Westerstraat 155 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4899,7 +5651,9 @@
         ]
       },
       "properties": {
-        "name": "Westerstraat 37 T/h"
+        "identifier": "sellingPoint",
+        "name": "Westerstraat 37 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4912,7 +5666,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 14 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 14 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4925,7 +5681,9 @@
         ]
       },
       "properties": {
-        "name": "Westerstraat 78 T/h"
+        "identifier": "sellingPoint",
+        "name": "Westerstraat 78 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4938,7 +5696,9 @@
         ]
       },
       "properties": {
-        "name": "Westerstraat 216 T/h"
+        "identifier": "sellingPoint",
+        "name": "Westerstraat 216 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4951,7 +5711,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 55 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 55 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4964,7 +5726,9 @@
         ]
       },
       "properties": {
-        "name": "Tweede Lindendwarsstraat 21 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Tweede Lindendwarsstraat 21 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4977,7 +5741,9 @@
         ]
       },
       "properties": {
-        "name": "Boomstraat 45 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Boomstraat 45 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -4990,7 +5756,9 @@
         ]
       },
       "properties": {
-        "name": "Noordermarkt 1 T/h"
+        "identifier": "sellingPoint",
+        "name": "Noordermarkt 1 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5003,7 +5771,9 @@
         ]
       },
       "properties": {
-        "name": "Lindenstraat 43 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Lindenstraat 43 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5016,7 +5786,9 @@
         ]
       },
       "properties": {
-        "name": "Lindengracht 209 T/h"
+        "identifier": "sellingPoint",
+        "name": "Lindengracht 209 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5029,7 +5801,9 @@
         ]
       },
       "properties": {
-        "name": "Lindengracht 85 T/h"
+        "identifier": "sellingPoint",
+        "name": "Lindengracht 85 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5042,7 +5816,9 @@
         ]
       },
       "properties": {
-        "name": "Lindengracht 5 T/h"
+        "identifier": "sellingPoint",
+        "name": "Lindengracht 5 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5055,7 +5831,9 @@
         ]
       },
       "properties": {
-        "name": "Lindengracht 76 T/h"
+        "identifier": "sellingPoint",
+        "name": "Lindengracht 76 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5068,7 +5846,9 @@
         ]
       },
       "properties": {
-        "name": "Lindengracht 204 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Lindengracht 204 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5081,7 +5861,9 @@
         ]
       },
       "properties": {
-        "name": "Lindengracht 342 T/h"
+        "identifier": "sellingPoint",
+        "name": "Lindengracht 342 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5094,7 +5876,9 @@
         ]
       },
       "properties": {
-        "name": "Goudsbloemstraat 139 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Goudsbloemstraat 139 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5107,7 +5891,9 @@
         ]
       },
       "properties": {
-        "name": "Goudsbloemstraat 103 T/h"
+        "identifier": "sellingPoint",
+        "name": "Goudsbloemstraat 103 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5120,7 +5906,9 @@
         ]
       },
       "properties": {
-        "name": "Willemsstraat 24 T/h"
+        "identifier": "sellingPoint",
+        "name": "Willemsstraat 24 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5133,7 +5921,9 @@
         ]
       },
       "properties": {
-        "name": "Willemsstraat 135 T/h"
+        "identifier": "sellingPoint",
+        "name": "Willemsstraat 135 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5146,7 +5936,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 23 T/o"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 23 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5159,7 +5951,9 @@
         ]
       },
       "properties": {
-        "name": "Brouwersgracht 161 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Brouwersgracht 161 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5172,7 +5966,9 @@
         ]
       },
       "properties": {
-        "name": "Palmgracht 69 T/o"
+        "identifier": "sellingPoint",
+        "name": "Palmgracht 69 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5185,7 +5981,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 13 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 13 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5198,7 +5996,9 @@
         ]
       },
       "properties": {
-        "name": "Driehoekstraat 7 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Driehoekstraat 7 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5211,7 +6011,9 @@
         ]
       },
       "properties": {
-        "name": "Brouwersgracht 723 T/o"
+        "identifier": "sellingPoint",
+        "name": "Brouwersgracht 723 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5224,7 +6026,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 155 T/o"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 155 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5237,7 +6041,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 91 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 91 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5250,7 +6056,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 26 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 26 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5263,7 +6071,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixkade 31 T/h"
+        "identifier": "sellingPoint",
+        "name": "Marnixkade 31 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5276,7 +6086,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixkade 3"
+        "identifier": "sellingPoint",
+        "name": "Marnixkade 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5289,7 +6101,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixkade 60 T/o"
+        "identifier": "sellingPoint",
+        "name": "Marnixkade 60 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5302,7 +6116,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixkade 33 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Marnixkade 33 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5315,7 +6131,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 112 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 112 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5328,7 +6146,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixkade 109 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Marnixkade 109 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5341,7 +6161,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixkade 93 T/h"
+        "identifier": "sellingPoint",
+        "name": "Marnixkade 93 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5354,7 +6176,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 277 T/h"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 277 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5367,7 +6191,9 @@
         ]
       },
       "properties": {
-        "name": "Marnixstraat 243 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Marnixstraat 243 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5380,7 +6206,9 @@
         ]
       },
       "properties": {
-        "name": "Westerkade 17 T/o"
+        "identifier": "sellingPoint",
+        "name": "Westerkade 17 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5393,7 +6221,9 @@
         ]
       },
       "properties": {
-        "name": "Westerkade 10 T/o"
+        "identifier": "sellingPoint",
+        "name": "Westerkade 10 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5406,7 +6236,9 @@
         ]
       },
       "properties": {
-        "name": "Lijnbaansgracht 109 T/o"
+        "identifier": "sellingPoint",
+        "name": "Lijnbaansgracht 109 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5419,7 +6251,9 @@
         ]
       },
       "properties": {
-        "name": "Bloemstraat 103 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Bloemstraat 103 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5432,7 +6266,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 172 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 172 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5445,7 +6281,9 @@
         ]
       },
       "properties": {
-        "name": "Bloemgracht 145 T/o"
+        "identifier": "sellingPoint",
+        "name": "Bloemgracht 145 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5458,7 +6296,9 @@
         ]
       },
       "properties": {
-        "name": "Bloemgracht 53 T/o"
+        "identifier": "sellingPoint",
+        "name": "Bloemgracht 53 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5471,7 +6311,9 @@
         ]
       },
       "properties": {
-        "name": "Bloemgracht 134 T/o_bord"
+        "identifier": "sellingPoint",
+        "name": "Bloemgracht 134 T/o_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5484,7 +6326,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Leliestraat 185 T/h"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Leliestraat 185 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5497,7 +6341,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuwe Leliestraat 89 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Nieuwe Leliestraat 89 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5510,7 +6356,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 128 T/o"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 128 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5523,7 +6371,9 @@
         ]
       },
       "properties": {
-        "name": "Egelantiersgracht 101 T/o"
+        "identifier": "sellingPoint",
+        "name": "Egelantiersgracht 101 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5536,7 +6386,9 @@
         ]
       },
       "properties": {
-        "name": "Egelantiersgracht 43 T/o"
+        "identifier": "sellingPoint",
+        "name": "Egelantiersgracht 43 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5549,7 +6401,9 @@
         ]
       },
       "properties": {
-        "name": "Egelantiersgracht 550 T/o"
+        "identifier": "sellingPoint",
+        "name": "Egelantiersgracht 550 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5562,7 +6416,9 @@
         ]
       },
       "properties": {
-        "name": "Egelantiersstraat 171 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Egelantiersstraat 171 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5575,7 +6431,9 @@
         ]
       },
       "properties": {
-        "name": "Egelantiersstraat 63 T/h_bord"
+        "identifier": "sellingPoint",
+        "name": "Egelantiersstraat 63 T/h_bord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5588,7 +6446,9 @@
         ]
       },
       "properties": {
-        "name": "Prinsengracht 88 T/h"
+        "identifier": "sellingPoint",
+        "name": "Prinsengracht 88 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5601,7 +6461,9 @@
         ]
       },
       "properties": {
-        "name": "Tuinstraat 49 T/h"
+        "identifier": "sellingPoint",
+        "name": "Tuinstraat 49 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5614,7 +6476,9 @@
         ]
       },
       "properties": {
-        "name": "Tuinstraat 155 T/o"
+        "identifier": "sellingPoint",
+        "name": "Tuinstraat 155 T/o",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5627,7 +6491,9 @@
         ]
       },
       "properties": {
-        "name": "Anjeliersstraat 470 T/h"
+        "identifier": "sellingPoint",
+        "name": "Anjeliersstraat 470 T/h",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5640,7 +6506,9 @@
         ]
       },
       "properties": {
-        "name": "Krommestraat"
+        "identifier": "sellingPoint",
+        "name": "Krommestraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5653,7 +6521,9 @@
         ]
       },
       "properties": {
-        "name": "Bolsward, Nieuwmarkt, Pmeter 9002,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur"
+        "identifier": "sellingPoint",
+        "name": "Bolsward, Nieuwmarkt, Pmeter 9002,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5666,7 +6536,9 @@
         ]
       },
       "properties": {
-        "name": "Bolsward, Nieuwmarkt, Pmeter 9003,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur"
+        "identifier": "sellingPoint",
+        "name": "Bolsward, Nieuwmarkt, Pmeter 9003,1e 15min ?0,20, Dan Per 7min.?0,10.max1,5uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5679,7 +6551,9 @@
         ]
       },
       "properties": {
-        "name": "Rode Poort"
+        "identifier": "sellingPoint",
+        "name": "Rode Poort",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5692,7 +6566,9 @@
         ]
       },
       "properties": {
-        "name": "Rode Poort"
+        "identifier": "sellingPoint",
+        "name": "Rode Poort",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5705,7 +6581,9 @@
         ]
       },
       "properties": {
-        "name": "Van Prinstererlaan"
+        "identifier": "sellingPoint",
+        "name": "Van Prinstererlaan",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5718,7 +6596,9 @@
         ]
       },
       "properties": {
-        "name": "Van Prinstererlaan"
+        "identifier": "sellingPoint",
+        "name": "Van Prinstererlaan",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5731,7 +6611,9 @@
         ]
       },
       "properties": {
-        "name": "Wittevrouwen"
+        "identifier": "sellingPoint",
+        "name": "Wittevrouwen",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5744,7 +6626,9 @@
         ]
       },
       "properties": {
-        "name": "Meent-zuid"
+        "identifier": "sellingPoint",
+        "name": "Meent-zuid",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5757,7 +6641,9 @@
         ]
       },
       "properties": {
-        "name": "Meent-zuid"
+        "identifier": "sellingPoint",
+        "name": "Meent-zuid",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5770,7 +6656,9 @@
         ]
       },
       "properties": {
-        "name": "Banjaard"
+        "identifier": "sellingPoint",
+        "name": "Banjaard",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5783,7 +6671,9 @@
         ]
       },
       "properties": {
-        "name": "Bergen Aan Zee (zone B)"
+        "identifier": "sellingPoint",
+        "name": "Bergen Aan Zee (zone B)",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5796,7 +6686,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5809,7 +6701,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5822,7 +6716,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5835,7 +6731,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5848,7 +6746,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5861,7 +6761,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5874,7 +6776,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5887,7 +6791,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5900,7 +6806,9 @@
         ]
       },
       "properties": {
-        "name": "Dagkaart"
+        "identifier": "sellingPoint",
+        "name": "Dagkaart",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5913,7 +6821,9 @@
         ]
       },
       "properties": {
-        "name": "Schildersbuurt"
+        "identifier": "sellingPoint",
+        "name": "Schildersbuurt",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5926,7 +6836,9 @@
         ]
       },
       "properties": {
-        "name": "Egmond Aan Zee (zone A)"
+        "identifier": "sellingPoint",
+        "name": "Egmond Aan Zee (zone A)",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5939,7 +6851,9 @@
         ]
       },
       "properties": {
-        "name": "tarief zone B met koopavond, max 1 uur"
+        "identifier": "sellingPoint",
+        "name": "tarief zone B met koopavond, max 1 uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5952,7 +6866,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0401, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0401, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5965,7 +6881,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0402  ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0402  ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5978,7 +6896,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0403, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0403, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -5991,7 +6911,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0405, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0405, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6004,7 +6926,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0406, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0406, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6017,7 +6941,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0408, ? 1,20 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Prins Hendrikkade. Parkeermeter 0408, ? 1,20 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6030,7 +6956,9 @@
         ]
       },
       "properties": {
-        "name": "C_statp"
+        "identifier": "sellingPoint",
+        "name": "C_statp",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6043,7 +6971,9 @@
         ]
       },
       "properties": {
-        "name": "Randduin"
+        "identifier": "sellingPoint",
+        "name": "Randduin",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6056,7 +6986,9 @@
         ]
       },
       "properties": {
-        "name": "Gorsnoord"
+        "identifier": "sellingPoint",
+        "name": "Gorsnoord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6069,7 +7001,9 @@
         ]
       },
       "properties": {
-        "name": "Gors-noord"
+        "identifier": "sellingPoint",
+        "name": "Gors-noord",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6082,7 +7016,9 @@
         ]
       },
       "properties": {
-        "name": "Burg. Kuntzelaan"
+        "identifier": "sellingPoint",
+        "name": "Burg. Kuntzelaan",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6095,7 +7031,9 @@
         ]
       },
       "properties": {
-        "name": "Burg. Kuntzelaan"
+        "identifier": "sellingPoint",
+        "name": "Burg. Kuntzelaan",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6108,7 +7046,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Lemmerweg. Parkeermeter 0008, ? 1,00 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Lemmerweg. Parkeermeter 0008, ? 1,00 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6121,7 +7061,9 @@
         ]
       },
       "properties": {
-        "name": "Sneek, Lemmerweg. Parkeermeter 0009, ? 1,00 Per Uur, Max. 2 Uur"
+        "identifier": "sellingPoint",
+        "name": "Sneek, Lemmerweg. Parkeermeter 0009, ? 1,00 Per Uur, Max. 2 Uur",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6134,7 +7076,9 @@
         ]
       },
       "properties": {
-        "name": "Ondiep"
+        "identifier": "sellingPoint",
+        "name": "Ondiep",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6147,7 +7091,9 @@
         ]
       },
       "properties": {
-        "name": "Verkooppunt Marspoortstraat"
+        "identifier": "sellingPoint",
+        "name": "Verkooppunt Marspoortstraat",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6160,7 +7106,9 @@
         ]
       },
       "properties": {
-        "name": "Hagelbuurt"
+        "identifier": "sellingPoint",
+        "name": "Hagelbuurt",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6173,7 +7121,9 @@
         ]
       },
       "properties": {
-        "name": "St Jansplein 3"
+        "identifier": "sellingPoint",
+        "name": "St Jansplein 3",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6186,7 +7136,9 @@
         ]
       },
       "properties": {
-        "name": "Vredesplein 1"
+        "identifier": "sellingPoint",
+        "name": "Vredesplein 1",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6199,7 +7151,9 @@
         ]
       },
       "properties": {
-        "name": "Mensingapad"
+        "identifier": "sellingPoint",
+        "name": "Mensingapad",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6212,7 +7166,9 @@
         ]
       },
       "properties": {
-        "name": "Schiphol C"
+        "identifier": "sellingPoint",
+        "name": "Schiphol C",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6225,7 +7181,9 @@
         ]
       },
       "properties": {
-        "name": "Schiphol C"
+        "identifier": "sellingPoint",
+        "name": "Schiphol C",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6238,7 +7196,9 @@
         ]
       },
       "properties": {
-        "name": "Nieuw Engeland"
+        "identifier": "sellingPoint",
+        "name": "Nieuw Engeland",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6251,7 +7211,9 @@
         ]
       },
       "properties": {
-        "name": "Centrum noordoost"
+        "identifier": "sellingPoint",
+        "name": "Centrum noordoost",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6264,7 +7226,9 @@
         ]
       },
       "properties": {
-        "name": "Leidseweg e.o."
+        "identifier": "sellingPoint",
+        "name": "Leidseweg e.o.",
+        "usage": "Betaald Parkeren"
       }
     },
     {
@@ -6277,7 +7241,9 @@
         ]
       },
       "properties": {
-        "name": "Strand"
+        "identifier": "sellingPoint",
+        "name": "Strand",
+        "usage": "Betaald Parkeren"
       }
     }
   ]

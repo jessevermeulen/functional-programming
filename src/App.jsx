@@ -1,8 +1,7 @@
 import React from 'react';
-import Graph from './components/Graph';
 import Header from './components/Header';
 import Hero from './components/Hero';
-import Map from './components/Map';
+import Wrapper from './components/Wrapper';
 
 export default function App() {
   return (
@@ -10,8 +9,7 @@ export default function App() {
       <Header />
       <main>
         <Hero />
-        <Map />
-        <Graph />
+        <Wrapper />
       </main>
     </>
   );

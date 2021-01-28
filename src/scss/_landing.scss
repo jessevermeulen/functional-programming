@@ -14,7 +14,26 @@ main {
 
     &:nth-child(2) {
       display: flex;
-      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+
+      &.toggle {
+        &-BetaaldParkeren {
+          svg g:last-child circle.BetaaldParkeren {
+            visibility: hidden;
+          }
+        }
+        &-ParkRide {
+          svg g:last-child circle.ParkRide {
+            visibility: hidden;
+          }
+        }
+        &-TerreinParkeren {
+          svg g:last-child circle.TerreinParkeren {
+            visibility: hidden;
+          }
+        }
+      }
     }
   }
 }
