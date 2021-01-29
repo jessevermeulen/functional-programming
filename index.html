@@ -17,8 +17,15 @@
     <title>Frontend Applications - Jesse Vermeulen</title>
   </head>
   <body>
-    <div id="root"></div>
+    <section class="chart">
+      <h2>Aantal parkeerplekken per faciliteit/gebied</h2>
 
-    <script type="module" src="./src/main.jsx"></script>
+      <div>
+        <span>Verwijder faciliteiten/gebieden zonden data<input type="checkbox" id="filter" name="filter"></span>
+        <svg></svg>
+      </div>
+    </section>
+
+    <script type="module" src="./src/js/d3Update.js"></script>
   </body>
 </html>
