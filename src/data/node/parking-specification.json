@@ -1,39 +1,48 @@
 [
   {
     "name": "Hendrik Tollensstraat e.o.",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Boschdijkstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Sonsbeeksingel",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Tuinwijk",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Lochem Centrum",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone 10 (Rotterdam)",
-    "usage": "Betaald parkeren"
+    "usage": "Betaald parkeren",
+    "capacity": null
   },
   {
     "name": "Gebied 2 - Uurtarief + Dagtarief laag",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Paslaan, tussen Kerklaan en Hoofdstraat (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "De Grenzen - Langparkeren",
-    "usage": "Terrein Parkeren"
+    "usage": "Terrein Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeergarage Scheldeplein (Vlissingen)",
@@ -43,75 +52,93 @@
   },
   {
     "name": "Max-2-uur-plus-vergunning",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Wolfsberg (Deurne)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T13B_U04 WS WGF terrein",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "ZD04C Zuid 4.3 Veluwebuurt",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "sector8",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T12B_U01 10c Van Wou_1",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Dr. Buijzestraat Epicurus",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Mauritsveld",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Sector 3 schil",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Nederland",
-    "usage": "Gehandicaptenparkeerkaart"
+    "usage": "Gehandicaptenparkeerkaart",
+    "capacity": null
   },
   {
     "name": "Vd duyn van Maasdamstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeergarage Belgiëlaan (Zoetermeer)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Abstede",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Citadellaan (voormalig Kruithuis)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Paardenmarkt (Delft)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren sector 4 - Heuvel (Geldrop-Mierlo)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "BL01A_U01 ma-za 10-18 Hoofdweg/BL plein en -weg WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Heel Amsterdam",
-    "usage": "Stadsbrede vergunningen"
+    "usage": "Stadsbrede vergunningen",
+    "capacity": null
   },
   {
     "name": "Garage Stationspark (Roermond)",
@@ -121,147 +148,183 @@
   },
   {
     "name": "Vreding I",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Raadhuisplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage De Zeeheld (Den Haag)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "blauwe zone 9",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Vechtvoorde",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Blauwe Zone Heuvelstraat",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "Kolhoopstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zaandam12",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Markthof (Den Haag)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone B max 2 uur",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Centrum Haren",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Purmersteenweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Hanzeweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Romei",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Centrum gebied (Roermond)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Rozenhof",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Gasper (Zeist)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Tariefzone A (Oss)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "OZ30-05 Zuid 2.3",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Paarse zone (Oisterwijk)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Gasthuispoort (Steenwijkerland)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Eikstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "GRV014ODE Garage Oosterdokseiland",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Pleinstraat",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Blauwe Zone A (Noorden)",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Zone1c",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Ameidewal",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Molenstraat (Ede)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Spoorlaan langsparkeren",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Stadshuisplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "ZD04A_U02 Maasstraat Tot Rooseveltlaan 10c",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Blauwe Zone",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Tariefsgebied F",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Westerdijk (Hoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Herewegbuurt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Sander Isreals-Plein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Garenmarkt (Leiden)",
@@ -271,15 +334,18 @@
   },
   {
     "name": "Raadhuisplein5",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Geldersedam",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Statenlaan 2",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage P6 Rijnkade (Utrecht)",
@@ -289,11 +355,13 @@
   },
   {
     "name": "Kreupelstraat",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "vd Does de Willeboissingel",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "P+R Schenkel (Rotterdam)",
@@ -303,31 +371,38 @@
   },
   {
     "name": "Dichterswijk-oost",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Schil Kleine Drift",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Maashaven (Roermond)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Havensingel 1 (nabij Wilhelminabrug)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "ZB67B Oost-8b",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Nieuwe Doelenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Breda Singel Uitzondering",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Spui Centre (Den Haag)",
@@ -337,23 +412,28 @@
   },
   {
     "name": "Zone 3",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Zone 13 (Rotterdam)",
-    "usage": "Betaald parkeren"
+    "usage": "Betaald parkeren",
+    "capacity": null
   },
   {
     "name": "Oranje Nassaulaan",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Sumatrastraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Markt Zuid",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Emmaplein (Zeist)",
@@ -363,43 +443,53 @@
   },
   {
     "name": "Zijpendaalseweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Lombok",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Sector B (Schiedam)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "WP61H West-9.1 Houthaven Haparandadam",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "ZO70 Amsterdam Zuidoost niet fiscaal",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Betaald parkeren P Weeskinderendijk",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "ZB08X Oost Geen vergunningen",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Ridder Anselmstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Binnen City Ring",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren centrum Maasdijk (Westland)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Oostkolk (Terneuzen)",
@@ -409,11 +499,13 @@
   },
   {
     "name": "T12B_U08 1e Const. Huygensstr",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Nachtegaalspad",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Wolfsberg (Deurne)",
@@ -423,39 +515,48 @@
   },
   {
     "name": "Patronaatstraat",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "WP60A_U01 Hugo de Groot WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "BZ Boschplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Moutfabriek (Roermond)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone 3, max 2 uur parkeren",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "BA01B_U01 ma-za 10-18 en do 9-21 Jan Evertsenstraat WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "GV81 Nieuw-West 1",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Varkensweide (Doetinchem)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Achtergracht (Weesp)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Zuidtangent (Heerhugowaard)",
@@ -465,23 +566,28 @@
   },
   {
     "name": "T17B ma-zo 09-19",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "SV52 Nieuw-West - 5 niet-fiscaal",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Lambert Meliszweg (Hoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Langparkeerterrein Van Houtenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Kerkhoflaan",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Riedijkshaven (Dordrecht)",
@@ -491,179 +597,223 @@
   },
   {
     "name": "Maximaal 2 uur en vergunninghouders",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Voorburg Noord",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Ultra Kort Parkeren Volendam",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeergarage Amsterdamstraat (Zoetermeer)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Nieuwland (Hoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Tuindorp",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Velperweg (Arnhem)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "POM-meter",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Uwv en de Bolder",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Maximaal 3 uur",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Vismarkt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zaagmolenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Sector A (Schiedam)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "SO36_U01 1e van Swinden WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Zuidend Mollemaklooster",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Loolaan voor apotheek bij Loolaanflat (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Noorderkroonstraat (Den Haag)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "John F Kennedylaan (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Mengvorm tariefzone 3 (7893)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Buitendijk",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Blauwe Zone Kommerstraat (B)",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Luybenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zuidersingel (parkeerterrein)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Betaald parkeren Rie Mastenbroekweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Asselsestraat, tussen Nieuwstraat en Mathilde Wibautstraat (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Klokkenslag",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone 4, max 2 uur parkeren",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Boldershof",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Centrumgebied (Almelo)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone A1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Maximaal-1-uur De Bongerd",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Valetiusstraat (Den Haag)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Wielstraat (Geldrop-Mierlo)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Hoogeinde",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Koninginnenlaan / Havenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Singel",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Noorderbolwerk, parkeerterrein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Adriaan v/d Weijdeweg (Burgh Haamstede)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Kanaaldijk N.O",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Hagelbuurt",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "REGULIER",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Bergen - Zone B",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Buitenschil Prof.De Jongstraat e.o.",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren P16 Vitringasingel (Harderwijk)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Vossenburchkade (Gouda)",
@@ -673,11 +823,13 @@
   },
   {
     "name": "Waalkade/Passantenhaven",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Leliendaleweg (Burgh Haamstede)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
@@ -687,55 +839,68 @@
   },
   {
     "name": "Oosterstraat I",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "straatparkeren Tegelzetterdek AS",
-    "usage": "Betaald Straatparkeren"
+    "usage": "Betaald Straatparkeren",
+    "capacity": null
   },
   {
     "name": "Schoollaan/ Steenkamplaan",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Veluwehal - noord/west",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Badhuisweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Hooch Boulandt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zaandam19",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Oostwal",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Welpenstraat-1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Veerweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T12B_U04 WS Van Baerle",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein in 't Schanes",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Engerweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage The Bank (Amsterdam)",
@@ -751,23 +916,28 @@
   },
   {
     "name": "Centrum",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Galgeweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Breda Centrum Uitzondering_1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Bruchterweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "WP62_U01  van Hallstr to 11-13 alleen WP60 (A t/m D)",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Garage Nieuwe Parklaan (Den Haag)",
@@ -777,23 +947,28 @@
   },
   {
     "name": "Straatparkeren sector1 - machinaal, achter de kerk (Geldrop-Mierlo)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Amphionstraat (Doetinchem)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Van Knobelsdorffplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Keppelstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerplaats Van Beethovenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "P+R Beverwaard (Rotterdam)",
@@ -803,52 +978,64 @@
   },
   {
     "name": "Nieuwstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Stadscentrum",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "CE04 Centrum 4",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Regentesselaan, tussen Mr. van Rhemenslaan en Paslaan (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone 2",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Koningin Wilhelminalaan (gelegen tussen Stationsplein en kon. Sophialaan)",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Gebied E, Willemshaven en Gebied D, Rand",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Pastoor van Genklaan (Sluis)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Spadelaan (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein tunnel (naast oude CB)",
     "usage": "Betaald Parkeren",
+    "capacity": null,
     "disabledAccess": false
   },
   {
     "name": "BA01A_U03 ma-za 10-18 Postjesweg WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Terreinparkeren Fuutlaan (Eindhoven)",
-    "usage": "Terreinparkeren"
+    "usage": "Terreinparkeren",
+    "capacity": null
   },
   {
     "name": "Terrein B2 (Leeuwarden)",
@@ -858,11 +1045,13 @@
   },
   {
     "name": "ZB69 Oost-10",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Akerstraat",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Terrein Maaskade Hoog (Venlo)",
@@ -872,151 +1061,188 @@
   },
   {
     "name": "Broereplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Bastion",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Gebiedscode Markt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "GRV009WP Garage Willemspoort",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Hoofdstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Gebied 9254",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Boschveldweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "De Helling",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Gasthuisstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Schoorl - Zone G",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparken blauwe zone (Schagen)",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "CE02_U03 Garage Willemspoort",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerschijfzone Ursulinenhof",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Betaald parkeren P Ark",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "IJsselkade-oost (rijbaan)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zaandam17",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "BV88 Zuideramstel per 1-1-2012 uitbreiding BV87",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Sector 6",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren blauwe zone - buiten centrum (Noordwijk)",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "reviusplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Bosweg (Noordwijk)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Koepoort",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Damstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren stationsweg (Eindhoven)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Hoofdstraat, tussen Stationsplein en Kalverstraat (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein De Tol",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Couwervestraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Poststraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Haspelstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zuid-Willemsvaart 9 (Muntel)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Ringstraten",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Skylwyk",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Blauwe Zone C (Nieuwveen)",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Zocherbuurt",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "Blauwe zone",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Strandparkeren Molenslag te Ter Heijde (Westland)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "De Markt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Olympisch Stadion (Amsterdam)",
@@ -1026,11 +1252,13 @@
   },
   {
     "name": "Straatparkeren Rayon G (Zeist)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "ZD04A_U03 Rijnstraat tot Vrijheidslaan 10c",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Garage Hoog Catharijne P1 (utrecht)",
@@ -1046,7 +1274,8 @@
   },
   {
     "name": "Groningerstraat tussen de Nieuwe Poort en Flevostraat",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Garage Parade (Pijnacker-Nootdorp)",
@@ -1062,63 +1291,78 @@
   },
   {
     "name": "Vogelzang",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Bornsestraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "blauwe zone 10",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Masiusplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Betaald parkeren rand 2",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Dommeldalseweg (Geldrop-Mierlo)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Aartshertogenlaan 3",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Ultra Kort Parkeren Edam",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T14B_U02 10c Rijnstraat_2",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Asselsestraat, tussen Driehuizerweg en Laan van Spitsbergen (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Schil tarief Overstad",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Wilhelminalaan",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T16C_U01 10c Buitenveldertselaan",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Stationsstraat",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "Noordoost Rosarium",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Holland Casino (Venlo)",
@@ -1128,7 +1372,8 @@
   },
   {
     "name": "Vergunningsgebied C1",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeergarage Kromstraat (Weert)",
@@ -1138,7 +1383,8 @@
   },
   {
     "name": "Zone 1",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Garage Raadhuisplein (Drachten)",
@@ -1148,52 +1394,64 @@
   },
   {
     "name": "Hoofdweg Lambertus Hortensiuslaan",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Zaandam16",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Spoorstraat",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Rayon I (Zeist)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Taxandriaweg II (Waalwijk)",
     "usage": "Terrein parkeren",
+    "capacity": null,
     "disabledAccess": false
   },
   {
     "name": "Straatparkeren Gebied C (Delft)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Stationsweg (Hoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "GRV017YOE Garage IJ-Oever",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Oude Houtensepad",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "Cereshof",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "ZB08 Oost-11",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Kleingraverstraat",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Garage Hooghuis (Eindhoven)",
@@ -1203,27 +1461,33 @@
   },
   {
     "name": "Blauwe zone",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Maximaal-2-uur",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Randduin",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Heerendonklaan 1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Westhove",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "BA02 West-2",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Zwarte Pad (Den Haag)",
@@ -1233,11 +1497,13 @@
   },
   {
     "name": "Parkeerterein Chasseveld",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeergerage Belgiëlaan (Zoetermeer)",
-    "usage": "Garage parkeren"
+    "usage": "Garage parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Kolkplein (Spijkenisse)",
@@ -1247,7 +1513,8 @@
   },
   {
     "name": "WM59A Oost-15 Amstel Businesspark",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Burgemeester van Roijensingel (Zwolle)",
@@ -1257,87 +1524,108 @@
   },
   {
     "name": "Mengvorm tariefzone 1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Centrum Parking Bomstraat (Noordwijk)",
-    "usage": "Terrein Parkeren"
+    "usage": "Terrein Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Gasthuisplaats (Delft)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Winkelstraten Centrum",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T11A  ma-za 09-24 zo 12-24",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Wolweg (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zuiderstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Westluidensestraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Prinses Beatrixstraat en Dorpsmatenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Langparkeerterrein Breestraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Claxonate (Purmerend)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Krommestraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Schilbanken",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Nieuwmarkt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Gebiedscode Rode Poort",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Ridderstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Bij de Molen",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Blauwe Zone Drunen",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Gr. Van Prinstererlaan",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Sint Martiniplantsoen",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Maximaal-2-uur",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Kazerneplein (Roermond)",
@@ -1347,7 +1635,8 @@
   },
   {
     "name": "Wolfsdonklaan thv 1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Kennedy Business Center (Eindhoven)",
@@ -1357,31 +1646,38 @@
   },
   {
     "name": "Max-3-uur-plus-vergunning",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Zone B3 (Amstelveen)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Julianaplein",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Rabobank Marskant",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Winkelstraten Schil",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Tarief Midden",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Statenlaan 1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Zuidpark P1 (Amsterdam)",
@@ -1391,11 +1687,13 @@
   },
   {
     "name": "Groene Balkon",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Eikstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Station Leidschenveen Haven (Den Haag)",
@@ -1405,7 +1703,8 @@
   },
   {
     "name": "T16B_U02 10c Delflandplein - Voorburgstr",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Garage The Red Apple Parkeerkelder (Rotterdam)",
@@ -1415,55 +1714,68 @@
   },
   {
     "name": "Tariefgebied Hoog onbeperkt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Wittevrouwen",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren de Molenstraat (Geldrop-Mierlo)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Mercuriusplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Blauwe Zone Wilh. snackbar (B)",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Bolswarderweg (Sneek)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Waalkade",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Gauke Boelenstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Euroborg",
-    "usage": "Garageparkeren"
+    "usage": "Garageparkeren",
+    "capacity": null
   },
   {
     "name": "Meent Zuid",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkweg (sportvelden)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Banjaard",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Weerdtoren (Venlo)",
-    "usage": "Terrein Parkeren"
+    "usage": "Terrein Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Het Schip (Raalte)",
@@ -1473,19 +1785,23 @@
   },
   {
     "name": "Parkeerterrein Beyerd Vlaszak (Breda)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Weverssingel",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Strobossersteeg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Scheldekade 2",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage De Barones (Breda)",
@@ -1495,7 +1811,8 @@
   },
   {
     "name": "Straatparkeren Faxterrein (Tilburg)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage P2 VUmc (Amsterdam)",
@@ -1505,15 +1822,18 @@
   },
   {
     "name": "Betaald parkeren rand 1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Gebied B",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Bergen aan Zee - Zone B",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Het Turfschip (Breda)",
@@ -1523,159 +1843,198 @@
   },
   {
     "name": "Burg. Wuiteweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Kerkstraat",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Stadskade (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Nachtegaalspad",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Ravelijn de goene jager",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Heerengracht, nabij Dijkstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Gebied F (Delft)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Grote Kade",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone B1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Achterom, Hogepol en Legeweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "SO35A_U02 Linnaeusstr WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Betaald parkeren rand 4",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T14B_U04 10c Kruislaan",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Dagkaart",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Schildersbuurt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeergarage Amsterdamstraat (Zoetermeer)",
-    "usage": "Garage parkeren"
+    "usage": "Garage parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren CWI (Roermond)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Apeldoornseweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Oostkant",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Scheepjeshof (Veenendaal)",
-    "usage": "Garageparkeren"
+    "usage": "Garageparkeren",
+    "capacity": null
   },
   {
     "name": "Weiersstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Egmond aan Zee - Zone A",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Max-2-uur-plus-vergunning",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage De Overtoom (Papendrecht)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Nachtegaalslaantje",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Stationsplein ('s-Hertogenbosch)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Vughterstraat 3",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "OZ31-03 Zuid 2.2",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Voorhout (Den Haag)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "P+R Zernike (Groningen)",
-    "usage": "Park & Ride"
+    "usage": "Park & Ride",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Tramzicht",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "tarief zone B met koopavond, max 1 uur",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Winkelstrip Koninginneweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Cronjé (Haarlem)",
-    "usage": "Garage Parkeren"
+    "usage": "Garage Parkeren",
+    "capacity": null
   },
   {
     "name": "Prins Hendrikkade",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Centrum Stationsplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Randduin",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Gedempte Haven",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Rabobank",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage P3 Radboud (Utrecht)",
@@ -1685,7 +2044,8 @@
   },
   {
     "name": "Straatparkeren Gasthuis Boomgaard (Zierikzee)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeergarage Walburg (Zwijndrecht)",
@@ -1695,75 +2055,93 @@
   },
   {
     "name": "Kortelandstraat",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Willem Vliegenstraat (Gulpen-Wittem)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Breda Centrum Uitzondering",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "A. Joachimikade",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Rijksweg (Gulpen-Wittem)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T13B_U01 10c Rijnstraat_1",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Wilhelminaplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Vogelenzang",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Generaal van Swietenlaan (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "tarief Gors-noord",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Traverse (viaduct)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Sector D (Schiedam)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Oude Doesburgseweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Segbroek (Den Haag)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Buiten Stadsgrachten (Sneek)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Waterpoortsgracht",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Kon. Astrid Boulevard (Noordwijk)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Burg. Kuntzelaan",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Dukenburg (Nijmegen)",
@@ -1773,23 +2151,28 @@
   },
   {
     "name": "5C",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Noordenbergpoortgarage (begane grond)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Noordwal",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Nassaubolwerk (Hulst)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein De Vier Hoogten",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Terrein Markt Zuid (Hoogeveen)",
@@ -1799,43 +2182,53 @@
   },
   {
     "name": "Tariefgebied Hoog beperkt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Daalhemerweg dwarsparkeren",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren De Grenzen (Almelo)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Lemmerweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Zone1d",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Ondiep",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Marspoortstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Hagelbuurt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Groene Zone (Noordwijk)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Centrum (Wehl/ Doetinchem)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Stadhuis (Den Haag)",
@@ -1851,43 +2244,53 @@
   },
   {
     "name": "BL90_U01 BL4 BosenLommerweg WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "St. Jansplein - Vredesplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T16C_U11 PO Gaffelaarspad",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Vlamingploderweg (Sluis)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Zeedijk (Sluis)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Mensingapad",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Strandweg (Den Haag)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Theaterplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T14A_H01 ma-za 09-24",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Waardstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage De Hagen (Rijssen)",
@@ -1897,39 +2300,48 @@
   },
   {
     "name": "Kanaalstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Willemspark (Den Haag)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "v Sasse v IJsselstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Maximaal-4-uur Meeuwenpln",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Beelsstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Westerscheldedijk",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Sint Andriesstraat",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "GV80 Nieuw-West 1",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "P+R Hoofddorp (Haarlemmermeer)",
@@ -1939,35 +2351,43 @@
   },
   {
     "name": "Middelburgsestraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Korte Molenstraat (Apeldoorn)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "T16E ma-za 09-21, zo 12-21",
-    "usage": "BetaaldParkeren"
+    "usage": "BetaaldParkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Blauwe Torenpad (Sluis)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Kaai",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Blauwe Zone 6 (Leiden)",
-    "usage": "Blauwe Zone"
+    "usage": "Blauwe Zone",
+    "capacity": null
   },
   {
     "name": "Seinstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Max-2-uur-plus-vergunning",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Achter de Houttuinen (Middelburg)",
@@ -1977,35 +2397,43 @@
   },
   {
     "name": "Markt",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Schiphol Centrum",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "De Kaap",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Raadhuisplein",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Hazenveld",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Gebied A",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Nieuw Engeland",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Staatparkeren Kapoeniestraat (Doetinchem)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "P+R Meerhoven",
@@ -2015,7 +2443,8 @@
   },
   {
     "name": "Jan Fabriciusstraat",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Frankrijklaan (Zoetermeer)",
@@ -2025,15 +2454,18 @@
   },
   {
     "name": "Straatparkeren Zuiddijkstraat (Sluis)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Noord, zuidzijde",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Parkeerterrein Kruisstraat (Deurne)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Leyweg 2 (Den Haag)",
@@ -2049,43 +2481,53 @@
   },
   {
     "name": "Westerhoutkwartier",
-    "usage": "Vergunning Parkeren"
+    "usage": "Vergunning Parkeren",
+    "capacity": null
   },
   {
     "name": "Aartshertogenlaan 1",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Centrum noordoost",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "P+R Haren A28 (Groningen)",
-    "usage": "Park & Ride"
+    "usage": "Park & Ride",
+    "capacity": null
   },
   {
     "name": "BL01A West-3.1",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Woonstraten",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Tehatexterrein (Tilburg)",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Garage Oosterpoort",
-    "usage": "Garageparkeren"
+    "usage": "Garageparkeren",
+    "capacity": null
   },
   {
     "name": "Koningsweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "CE02_U02 Haarlemmerdijk WS",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   },
   {
     "name": "Garage Hart van IJsselmonde (Rotterdam)",
@@ -2095,18 +2537,22 @@
   },
   {
     "name": "Leidseweg e.o.",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Straatparkeren Stokdijkkade 2 te Naaldwijk",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "Bloemendaal, parkeerterreinen Zeeweg",
-    "usage": "Betaald Parkeren"
+    "usage": "Betaald Parkeren",
+    "capacity": null
   },
   {
     "name": "WP60B_U02 WS WGF terrein",
-    "usage": "VergunningParkeren"
+    "usage": "VergunningParkeren",
+    "capacity": null
   }
 ]

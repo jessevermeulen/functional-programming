@@ -15,7 +15,7 @@ function filterData(key, data) {
       const obj = {
         name: areaName,
         usage: usage,
-        capacity: specification.capacity,
+        capacity: !specification.capacity ? null : specifications.capacity,
         disabledAccess: specification.disabledAccess,
       };
 
