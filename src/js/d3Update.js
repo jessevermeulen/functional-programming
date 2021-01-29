@@ -38,7 +38,6 @@ function updateBarChart() {
 
   // Setup scales
   function setupScales() {
-    console.log('setting up scales');
     x.domain(data.map((d) => d.name));
     y.domain([0, d3.max(data.map((d) => d.capacity))]);
     x.rangeRound([0, width]);
@@ -61,7 +60,6 @@ function updateBarChart() {
 
   // Setup toggle button
   function setupInput() {
-    console.log('setting up input');
     const input = d3.select('#filter').on('click', filterUnknown);
   }
 
