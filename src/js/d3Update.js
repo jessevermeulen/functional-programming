@@ -2,6 +2,7 @@ import * as d3 from 'd3';
 import parkingSpecifications from '../data/node/parking-specification.json';
 
 function updateBarChart() {
+  // Assign data to const and limit objects
   const data = parkingSpecifications.slice(0, 100);
 
   const svg = d3.select('svg');
@@ -21,6 +22,7 @@ function updateBarChart() {
   drawBars(g);
   setupInput();
 
+  // Draw bars
   function drawBars(t) {
     const bars = t
       .selectAll('.bar')
@@ -34,6 +36,7 @@ function updateBarChart() {
       .attr('height', (d) => height - y(d.capacity));
   }
 
+  // Setup scales
   function setupScales() {
     console.log('setting up scales');
     x.domain(data.map((d) => d.name));
@@ -42,6 +45,7 @@ function updateBarChart() {
     y.rangeRound([height, 0]);
   }
 
+  // Setup axes
   function setupAxes(t) {
     t.append('g')
       .attr('class', 'axis axis-x')
@@ -49,17 +53,19 @@ function updateBarChart() {
       .attr('transform', 'translate(0,' + height + ')')
       .selectAll('text')
       .attr('transform', 'rotate(90)')
-      .attr('dx', 100)
-      .attr('dy', '-.5em');
+      .attr('dx', 120)
+      .attr('dy', '-.3em');
 
     t.append('g').attr('class', 'axis axis-y').call(d3.axisLeft(y).ticks(10));
   }
 
+  // Setup toggle button
   function setupInput() {
     console.log('setting up input');
     const input = d3.select('#filter').on('click', filterUnknown);
   }
 
+  // Filter results based on state of toggle button
   function filterUnknown() {
     const filterOn = this ? this.checked : false;
     const dataSelection = filterOn ? data.filter((d) => d.capacity) : data;
@@ -93,76 +99,11 @@ function updateBarChart() {
       .attr('transform', 'translate(0,' + height + ')')
       .selectAll('text')
       .attr('transform', 'rotate(90)')
-      .attr('dx', 100)
-      .attr('dy', '-.5em');
+      .attr('dx', 120)
+      .attr('dy', '-.3em');
 
     svg.select('.axis-y').call(d3.axisLeft(y).ticks(10));
   }
 }
 
 updateBarChart();
-
-function updateText() {
-  const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
-
-  const width = 960;
-  const height = 500;
-
-  const svg = d3.select('svg').attr('width', width).attr('height', height);
-  const g = svg
-    .append('g')
-    .attr('transform', 'translate(32, ' + height / 2 + ')');
-
-  function update(data) {
-    const t = d3.transition().duration(750);
-
-    const text = g.selectAll('text').data(data, (d) => {
-      return d;
-    });
-
-    text
-      .exit()
-      .attr('class', 'exit')
-      .transition(t)
-      .attr('y', 60)
-      .style('fill-opacity', 1e-6)
-      .remove();
-
-    text
-      .attr('class', 'update')
-      .attr('y', 0)
-      .style('fill-opacity', 1)
-      .transition(t)
-      .attr('x', (_, i) => {
-        return i * 32;
-      });
-
-    text
-      .enter()
-      .append('text')
-      .attr('class', 'enter')
-      .attr('dy', '.35em')
-      .attr('y', -60)
-      .attr('x', (_, i) => {
-        return i * 32;
-      })
-      .style('fill-opacity', 1e-6)
-      .text((d) => {
-        return d;
-      })
-      .transition(t)
-      .attr('y', 0)
-      .style('fill-opacity', 1);
-  }
-
-  update(alphabet);
-
-  d3.interval(() => {
-    update(
-      d3
-        .shuffle(alphabet)
-        .slice(0, Math.floor(Math.random() * 26))
-        .sort()
-    );
-  }, 1500);
-}

@@ -60,7 +60,7 @@
   }
 }
 
-svg {
+.map svg {
   g:first-child path {
     fill: var(--map-fill);
     stroke: var(--map-border);
